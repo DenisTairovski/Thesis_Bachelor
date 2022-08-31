@@ -18,17 +18,18 @@
 \usepackage{epsfig}
 \usepackage{plain}
 \usepackage{setspace}
-\usepackage[paperheight=29.7cm,paperwidth=21cm,outer=1.5cm,inner=2.5cm,top=2cm,bottom=2cm]{geometry} % per definizione layout
+\usepackage{graphicx}
+\usepackage[paperheight=29.7cm,paperwidth=21cm,outer=1.5cm,inner=2.5cm,top=2cm,bottom=2cm]{geometry}
 \usepackage{titlesec} % per formato custom dei titoli dei capitoli
 
 %%%%%%%%%%%%%%
 % supporto lettere accentate
 %
-%\usepackage[latin1]{inputenc} % per Windows;
-\usepackage[utf8x]{inputenc} % per Linux (richiede il pacchetto unicode);
+\usepackage{inputenc} % per Windows;
+%\usepackage[utf8x]{inputenc} % per Linux (richiede il pacchetto unicode);
 %\usepackage[applemac]{inputenc} % per Mac.
 
-\singlespacing
+%\singlespacing
 
 \usepackage[italian]{babel}
 
@@ -163,12 +164,5 @@
 %%   Se disponibile, inserire la data di ultima consultazione della risorsa (gg/mm/aaaa).    
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-    
-
-    \titleformat{\chapter}
-        {\normalfont\Huge\bfseries}{Allegato \thechapter}{1em}{}
-    % sezione Allegati - opzionale
-    \appendix
-    \input{allegati}
 
 \end{document}

@@ -1,0 +1,39 @@
+\babel@toc {english}{}
+\contentsline {chapter}{Sommario}{1}{chapter*.2}%
+\contentsline {chapter}{\numberline {1}Introduction}{2}{chapter.1}%
+\contentsline {section}{\numberline {1.1}What are Meta-Surfaces?}{2}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Passive Meta-Surfaces}{3}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Active Meta-Surfaces}{3}{section.1.3}%
+\contentsline {chapter}{\numberline {2}State-of-Art Analysis}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Holographic Smart EM Skins for Advanced Beam Power Shaping in Next Generation Wireless Environments \cite {Oliveri:2021}}{4}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Motivation and Principles}{4}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Mathematical Formulation and Design Formulas}{5}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Synthesis Procedure }{8}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.1.4}Numerical Results}{10}{subsection.2.1.4}%
+\contentsline {subsubsection}{{}``Square'' Footprint Experiment}{11}{subsubsection*.3}%
+\contentsline {subsubsection}{{}``Checkerboard'', {}``IEEE'' and {}``ELEDIA'' Footprint Experiment}{13}{subsubsection*.4}%
+\contentsline {chapter}{\numberline {3}Planning EM}{16}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Introduction}{16}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Scenario}{16}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Parameters}{16}{subsection.3.2.1}%
+\contentsline {subsubsection}{Scenery Presentation}{16}{subsubsection*.5}%
+\contentsline {subsection}{\numberline {3.2.2}Power and Threshold}{17}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Region of Interest}{17}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}Smart Skins Choice}{18}{subsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.2.5}Enhancement Region of Interest 1}{19}{subsection.3.2.5}%
+\contentsline {subsubsection}{Smart Skin Sizing and Layout}{20}{subsubsection*.6}%
+\contentsline {subsubsection}{Smart Skin Performance}{21}{subsubsection*.7}%
+\contentsline {subsubsection}{Best Skin and Overall Implementation}{22}{subsubsection*.8}%
+\contentsline {subsection}{\numberline {3.2.6}Enhancement Region of Interest 2}{22}{subsection.3.2.6}%
+\contentsline {subsubsection}{Smart Skin Sizing and Layout}{22}{subsubsection*.9}%
+\contentsline {subsubsection}{Smart Skins Performance}{24}{subsubsection*.10}%
+\contentsline {subsubsection}{Best Skin and Overall Implementation}{25}{subsubsection*.11}%
+\contentsline {subsection}{\numberline {3.2.7}Enhancement Region of Interest 3}{25}{subsection.3.2.7}%
+\contentsline {subsubsection}{Smart Skin Sizing and Layout}{25}{subsubsection*.12}%
+\contentsline {subsubsection}{Smart Skins Performance}{26}{subsubsection*.13}%
+\contentsline {subsubsection}{Best Skin and Overall Implementation}{27}{subsubsection*.14}%
+\contentsline {chapter}{\numberline {4}Conclusions}{27}{chapter.4}%
+\contentsline {section}{\numberline {4.1}State-of-Art Conclusions}{27}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Planning EM Conclusions}{28}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Final conclusions}{29}{section.4.3}%
+\contentsline {chapter}{Bibliografia}{30}{section.4.3}%

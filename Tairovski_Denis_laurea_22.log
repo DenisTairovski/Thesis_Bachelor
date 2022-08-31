@@ -1,0 +1,1656 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6.28) (preloaded format=pdflatex 2021.9.13)  31 AUG 2022 19:09
+entering extended mode
+**./Tairovski_Denis_laurea_22.tex
+(Tairovski_Denis_laurea_22.tex
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-06-18>
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
+Document Class: book 2021/02/12 v1.4n Standard LaTeX document class
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/base\bk11.clo
+File: bk11.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count182
+\c@chapter=\count183
+\c@section=\count184
+\c@subsection=\count185
+\c@subsubsection=\count186
+\c@paragraph=\count187
+\c@subparagraph=\count188
+\c@figure=\count189
+\c@table=\count190
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/graphics\epsfig.sty
+Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
+
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+\epsfxsize=\dimen141
+\epsfysize=\dimen142
+) (C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\plain.sty
+Package: plain 1996/04/22 Plain TeX emulation (DPC)
+\tabs@latex=\box50
+\tabsyet@latex=\box51
+\tabsdone@latex=\box52
+) (C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+) (C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count191
+\Gm@cntv=\count192
+\c@Gm@tempcnt=\count193
+\Gm@bindingoffset=\dimen143
+\Gm@wd@mp=\dimen144
+\Gm@odd@mp=\dimen145
+\Gm@even@mp=\dimen146
+\Gm@layoutwidth=\dimen147
+\Gm@layoutheight=\dimen148
+\Gm@layouthoffset=\dimen149
+\Gm@layoutvoffset=\dimen150
+\Gm@dimlist=\toks17
+
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box53
+\beforetitleunit=\skip49
+\aftertitleunit=\skip50
+\ttl@plus=\dimen151
+\ttl@minus=\dimen152
+\ttl@toksa=\toks18
+\titlewidth=\dimen153
+\titlewidthlast=\dimen154
+\titlewidthfirst=\dimen155
+)
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
+\col@sep=\dimen156
+\ar@mcellbox=\box54
+\extrarowheight=\dimen157
+\NC@list=\toks19
+\extratabsurround=\skip51
+\backup@length=\skip52
+\ar@cellbox=\box55
+)
+\TX@col@width=\dimen158
+\TX@old@table=\dimen159
+\TX@old@col=\dimen160
+\TX@target=\dimen161
+\TX@delta=\dimen162
+\TX@cols=\count194
+\TX@ftn=\toks20
+)
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count195
+\rotFPtop=\skip53
+\rotFPbot=\skip54
+\rot@float@box=\box56
+\rot@mess@toks=\toks21
+)
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) (C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/relsize\relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks22
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2021-05-07 v4.16 Multi-page Table package (DPC)
+\LTleft=\skip55
+\LTright=\skip56
+\LTpre=\skip57
+\LTpost=\skip58
+\LTchunksize=\count196
+\LTcapwidth=\dimen163
+\LT@head=\box57
+\LT@firsthead=\box58
+\LT@foot=\box59
+\LT@lastfoot=\box60
+\LT@gbox=\box61
+\LT@cols=\count197
+\LT@rows=\count198
+\c@LT@tables=\count199
+\c@LT@chunks=\count266
+\LT@p@ftn=\toks23
+)
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count267
+\float@exts=\toks24
+\float@box=\box62
+\@float@everytoks=\toks25
+\@floatcapt=\box63
+)
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen164
+\WF@size=\dimen165
+\c@WF@wrappedlines=\count268
+\WF@box=\box64
+\WF@everypar=\toks26
+Package: wrapfig 2003/01/31  v 3.6
+)
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.s
+ty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
+.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen166
+\Hy@linkcounter=\count269
+\Hy@pagecounter=\count270
+ (C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref-langp
+atches.def
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
+nguages
+)
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count271
+ (C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count272
+
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen167
+
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count273
+\Field@Width=\dimen168
+\Fld@charsize=\dimen169
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring OFF on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
+
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count274
+\c@Item=\count275
+\c@Hfootnote=\count276
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
+
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+\Fld@listcount=\count277
+\c@bookmark@seq@number=\count278
+
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip59
+)
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count279
+)
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks27
+\inpenc@posthook=\toks28
+)
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2021/06/28 3.61 The Babel package
+
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2021/06/28 3.61 Babel common definitions
+\babel@savecnt=\count280
+\U@D=\dimen170
+\l@unhyphenated=\language79
+
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count281
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.l
+df
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
+))
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count282
+\l__pdf_internal_box=\box65
+)
+
+LaTeX Warning: Unused global option(s):
+    [epsfig].
+
+(Tairovski_Denis_laurea_22.aux)
+\openout1 = `Tairovski_Denis_laurea_22.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count283
+\scratchdimen=\dimen171
+\scratchbox=\box66
+\nofMPsegments=\count284
+\nofMParguments=\count285
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count286
+\MPscratchDim=\dimen172
+\MPnumerator=\count287
+\makeMPintoPDFobject=\count288
+\everyMPtoPDFconversion=\toks30
+)
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 483.69687pt, 42.67912pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23575pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04675pt
+* \textwidth=483.69687pt
+* \textheight=731.23575pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-47.23828pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=11.0pt
+* \footskip=27.46295pt
+* \marginparwidth=53.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package hyperref Info: Link coloring OFF on input line 48.
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count289
+)
+LaTeX Info: Redefining \ref on input line 48.
+LaTeX Info: Redefining \pageref on input line 48.
+LaTeX Info: Redefining \nameref on input line 48.
+ (Tairovski_Denis_laurea_22.out) (Tairovski_Denis_laurea_22.out)
+\@outlinefile=\write3
+\openout3 = `Tairovski_Denis_laurea_22.out'.
+
+
+(pagina_iniziale.tex
+Package epstopdf Info: Source file: <marchio_unitrento_colore_it_202002.eps>
+(epstopdf)                    date: 2020-02-12 09:03:20
+(epstopdf)                    size: 222744 bytes
+(epstopdf)             Output file: <marchio_unitrento_colore_it_202002-eps-con
+verted-to.pdf>
+(epstopdf)                    date: 2020-02-12 09:12:40
+(epstopdf)                    size: 183512 bytes
+(epstopdf)             Command: <miktex-epstopdf-unrestricted --outfile=marchio
+_unitrento_colore_it_202002-eps-converted-to.pdf marchio_unitrento_colore_it_20
+2002.eps>
+(epstopdf)             \includegraphics on input line 7.
+Package epstopdf Info: Output file is already uptodate.
+<marchio_unitrento_colore_it_202002-eps-converted-to.pdf, id=106, 369.7815pt x 
+114.6684pt>
+File: marchio_unitrento_colore_it_202002-eps-converted-to.pdf Graphic file (typ
+e pdf)
+<use marchio_unitrento_colore_it_202002-eps-converted-to.pdf>
+Package pdftex.def Info: marchio_unitrento_colore_it_202002-eps-converted-to.pd
+f  used on input line 7.
+(pdftex.def)             Requested size: 290.22107pt x 90.00262pt.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 30.
+
+
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 30.
+
+
+(C:\Users\dencl\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
+[1
+
+{C:/Users/dencl/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./marchio_unitr
+ento_colore_it_202002-eps-converted-to.pdf>] (Tairovski_Denis_laurea_22.toc)
+\tf@toc=\write4
+\openout4 = `Tairovski_Denis_laurea_22.toc'.
+
+
+(sommario.tex) [1
+
+] (capitolo1.tex
+Chapter 1.
+[2]) (capitolo2.tex
+Chapter 2.
+
+Underfull \hbox (badness 5064) in paragraph at lines 13--13
+[]|\OT1/cmr/m/n/9 IEEE J. Mul-ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+\OT1/cmr/m/n/9 scale Mul-ti-phys.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+[]|\OT1/cmr/m/n/9 G. Oliv-eri, P.
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 15.
+
+[3] [4]
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+[]|\OT1/cmr/m/n/10.95 Cambridge
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+[]|\OT1/cmr/m/n/10.95 F. Yang
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+\OT1/cmr/m/n/10.95 and Y.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+\OT1/cmr/m/n/10.95 Rahmat-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+[]|\OT1/cmr/m/n/10.95 IEEE Trans.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+\OT1/cmr/m/n/10.95 An-ten-nas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+[]|\OT1/cmr/m/n/10.95 M.
+ []
+
+<./Figure/Figure01.png, id=177, 787.44188pt x 420.06938pt>
+File: ./Figure/Figure01.png Graphic file (type png)
+<use ./Figure/Figure01.png>
+Package pdftex.def Info: ./Figure/Figure01.png  used on input line 52.
+(pdftex.def)             Requested size: 275.60878pt x 147.02649pt.
+
+LaTeX Warning: Reference `cap:Geom' on page 5 undefined on input line 56.
+
+[5 <./Figure/Figure01.png>] [6]
+<./Figure/Figure02.png, id=220, 1198.4775pt x 606.76688pt>
+File: ./Figure/Figure02.png Graphic file (type png)
+<use ./Figure/Figure02.png>
+Package pdftex.def Info: ./Figure/Figure02.png  used on input line 211.
+(pdftex.def)             Requested size: 359.54602pt x 182.03146pt.
+ [7]
+
+LaTeX Warning: Reference `sub:Mathematical-And-Design-Formulas' on page 8 undef
+ined on input line 220.
+
+
+LaTeX Warning: Reference `Salucci.2018' on page 8 undefined on input line 222.
+
+
+LaTeX Warning: Reference `Salucci.2018' on page 8 undefined on input line 228.
+
+[8 <./Figure/Figure02.png>]
+
+LaTeX Warning: Reference `Salucci.2018' on page 9 undefined on input line 292.
+
+[9pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.1
+}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.336 \end{enumerate}
+                     ]
+
+LaTeX Warning: Reference `Yang.2021' on page 10 undefined on input line 357.
+
+
+LaTeX Warning: Reference `Yang.2021' on page 10 undefined on input line 365.
+
+
+LaTeX Warning: Reference `Yang.2021' on page 10 undefined on input line 376.
+
+<./Figure/FIgure03.png, id=272, 864.22874pt x 184.2885pt>
+File: ./Figure/FIgure03.png Graphic file (type png)
+<use ./Figure/FIgure03.png>
+Package pdftex.def Info: ./Figure/FIgure03.png  used on input line 402.
+(pdftex.def)             Requested size: 432.11331pt x 92.14401pt.
+[10pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.
+2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.406 \end{center}
+                  pdfTeX warning (ext4): destination with the same identifier (
+name{Hfootnote.3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.406 \end{center}
+                  ]
+
+LaTeX Warning: Reference `Yang.2021' on page 11 undefined on input line 427.
+
+<./Figure/Figure04.png, id=283, 438.438pt x 218.0145pt>
+File: ./Figure/Figure04.png Graphic file (type png)
+<use ./Figure/Figure04.png>
+Package pdftex.def Info: ./Figure/Figure04.png  used on input line 437.
+(pdftex.def)             Requested size: 153.4556pt x 76.3062pt.
+<./Figure/Figure05.png, id=284, 445.665pt x 290.2845pt>
+File: ./Figure/Figure05.png Graphic file (type png)
+<use ./Figure/Figure05.png>
+Package pdftex.def Info: ./Figure/Figure05.png  used on input line 439.
+(pdftex.def)             Requested size: 155.98508pt x 101.60109pt.
+
+LaTeX Warning: Reference `cap:Geom' on page 11 undefined on input line 455.
+
+[11pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.
+4}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.472 
+       <./Figure/FIgure03.png> <./Figure/Figure04.png> <./Figure/Figure05.png>]
+<./Figure/FIgure06.png, id=300, 343.88475pt x 290.88675pt>
+File: ./Figure/FIgure06.png Graphic file (type png)
+<use ./Figure/FIgure06.png>
+Package pdftex.def Info: ./Figure/FIgure06.png  used on input line 477.
+(pdftex.def)             Requested size: 120.36147pt x 101.81187pt.
+<./Figure/Figure07.png, id=301, 331.2375pt x 295.70474pt>
+File: ./Figure/Figure07.png Graphic file (type png)
+<use ./Figure/Figure07.png>
+Package pdftex.def Info: ./Figure/Figure07.png  used on input line 479.
+(pdftex.def)             Requested size: 115.93484pt x 103.4982pt.
+<./Figure/Figure08.png, id=302, 352.31625pt x 343.2825pt>
+File: ./Figure/Figure08.png Graphic file (type png)
+<use ./Figure/Figure08.png>
+Package pdftex.def Info: ./Figure/Figure08.png  used on input line 483.
+(pdftex.def)             Requested size: 123.31253pt x 120.15067pt.
+<./Figure/Figure09.png, id=303, 446.8695pt x 214.401pt>
+File: ./Figure/Figure09.png Graphic file (type png)
+<use ./Figure/Figure09.png>
+Package pdftex.def Info: ./Figure/Figure09.png  used on input line 499.
+(pdftex.def)             Requested size: 178.74463pt x 85.75887pt.
+<./Figure/FIgure10.png, id=304, 416.15475pt x 339.06676pt>
+File: ./Figure/FIgure10.png Graphic file (type png)
+<use ./Figure/FIgure10.png>
+Package pdftex.def Info: ./Figure/FIgure10.png  used on input line 501.
+(pdftex.def)             Requested size: 166.45894pt x 135.62428pt.
+
+LaTeX Warning: Reference `sec:Olivieri.2021-Conclusions' on page 12 undefined o
+n input line 535.
+
+[12 <./Figure/FIgure06.png> <./Figure/Figure07.png> <./Figure/Figure08.png> <./
+Figure/Figure09.png> <./Figure/FIgure10.png>]
+<./Figure/Figure11.png, id=326, 426.393pt x 216.81pt>
+File: ./Figure/Figure11.png Graphic file (type png)
+<use ./Figure/Figure11.png>
+Package pdftex.def Info: ./Figure/Figure11.png  used on input line 545.
+(pdftex.def)             Requested size: 149.23978pt x 75.88463pt.
+<./Figure/Figure12.png, id=327, 392.06474pt x 382.42876pt>
+File: ./Figure/Figure12.png Graphic file (type png)
+<use ./Figure/Figure12.png>
+Package pdftex.def Info: ./Figure/Figure12.png  used on input line 547.
+(pdftex.def)             Requested size: 137.22472pt x 133.85207pt.
+<./Figure/Figure16.jpg, id=328, 274.02374pt x 261.97874pt>
+File: ./Figure/Figure16.jpg Graphic file (type jpg)
+<use ./Figure/Figure16.jpg>
+Package pdftex.def Info: ./Figure/Figure16.jpg  used on input line 564.
+(pdftex.def)             Requested size: 95.90974pt x 91.69392pt.
+<./Figure/Figure18.jpg, id=329, 527.571pt x 515.526pt>
+File: ./Figure/Figure18.jpg Graphic file (type jpg)
+<use ./Figure/Figure18.jpg>
+Package pdftex.def Info: ./Figure/Figure18.jpg  used on input line 566.
+(pdftex.def)             Requested size: 158.27252pt x 154.659pt.
+<./Figure/Figure17.jpg, id=330, 372.1905pt x 187.902pt>
+File: ./Figure/Figure17.jpg Graphic file (type jpg)
+<use ./Figure/Figure17.jpg>
+Package pdftex.def Info: ./Figure/Figure17.jpg  used on input line 583.
+(pdftex.def)             Requested size: 130.26862pt x 65.76668pt.
+ [13 <./Figure/Figure11.png> <./Figure/Figure12.png> <./Figure/Figure16.jpg> <.
+/Figure/Figure18.jpg> <./Figure/Figure17.jpg>]
+<./Figure/Figure13.png, id=345, 434.8245pt x 215.6055pt>
+File: ./Figure/Figure13.png Graphic file (type png)
+<use ./Figure/Figure13.png>
+Package pdftex.def Info: ./Figure/Figure13.png  used on input line 642.
+(pdftex.def)             Requested size: 173.9267pt x 86.24066pt.
+<./Figure/Figure19.jpg, id=346, 543.83176pt x 516.12825pt>
+File: ./Figure/Figure19.jpg Graphic file (type jpg)
+<use ./Figure/Figure19.jpg>
+Package pdftex.def Info: ./Figure/Figure19.jpg  used on input line 644.
+(pdftex.def)             Requested size: 163.15079pt x 154.83966pt.
+<./Figure/Figure20.jpg, id=347, 593.21625pt x 516.12825pt>
+File: ./Figure/Figure20.jpg Graphic file (type jpg)
+<use ./Figure/Figure20.jpg>
+Package pdftex.def Info: ./Figure/Figure20.jpg  used on input line 671.
+(pdftex.def)             Requested size: 88.97859pt x 77.4159pt.
+<./Figure/Figure21.jpg, id=348, 552.8655pt x 515.526pt>
+File: ./Figure/Figure21.jpg Graphic file (type jpg)
+<use ./Figure/Figure21.jpg>
+Package pdftex.def Info: ./Figure/Figure21.jpg  used on input line 671.
+(pdftex.def)             Requested size: 82.92624pt x 77.32556pt.
+<./Figure/Figure22.jpg, id=349, 540.8205pt x 515.526pt>
+File: ./Figure/Figure22.jpg Graphic file (type jpg)
+<use ./Figure/Figure22.jpg>
+Package pdftex.def Info: ./Figure/Figure22.jpg  used on input line 671.
+(pdftex.def)             Requested size: 81.11957pt x 77.32556pt.
+<./Figure/Figure26.jpg, id=350, 751.608pt x 366.168pt>
+File: ./Figure/Figure26.jpg Graphic file (type jpg)
+<use ./Figure/Figure26.jpg>
+Package pdftex.def Info: ./Figure/Figure26.jpg  used on input line 674.
+(pdftex.def)             Requested size: 112.73633pt x 54.92282pt.
+<./Figure/Figure27.jpg, id=351, 735.9495pt x 380.622pt>
+File: ./Figure/Figure27.jpg Graphic file (type jpg)
+<use ./Figure/Figure27.jpg>
+Package pdftex.def Info: ./Figure/Figure27.jpg  used on input line 674.
+(pdftex.def)             Requested size: 110.38765pt x 57.09082pt.
+<./Figure/Figure28.jpg, id=352, 732.93825pt x 367.3725pt>
+File: ./Figure/Figure28.jpg Graphic file (type jpg)
+<use ./Figure/Figure28.jpg>
+Package pdftex.def Info: ./Figure/Figure28.jpg  used on input line 674.
+(pdftex.def)             Requested size: 109.93599pt x 55.10349pt.
+<./Figure/Figure23.jpg, id=353, 573.94424pt x 516.12825pt>
+File: ./Figure/Figure23.jpg Graphic file (type jpg)
+<use ./Figure/Figure23.jpg>
+Package pdftex.def Info: ./Figure/Figure23.jpg  used on input line 676.
+(pdftex.def)             Requested size: 86.08792pt x 77.4159pt.
+<./Figure/Figure24.jpg, id=354, 528.17325pt x 517.935pt>
+File: ./Figure/Figure24.jpg Graphic file (type jpg)
+<use ./Figure/Figure24.jpg>
+Package pdftex.def Info: ./Figure/Figure24.jpg  used on input line 677.
+(pdftex.def)             Requested size: 79.22256pt x 77.68689pt.
+<./Figure/Figure25.jpg, id=355, 531.1845pt x 517.935pt>
+File: ./Figure/Figure25.jpg Graphic file (type jpg)
+<use ./Figure/Figure25.jpg>
+Package pdftex.def Info: ./Figure/Figure25.jpg  used on input line 678.
+(pdftex.def)             Requested size: 79.67422pt x 77.68689pt.
+<./Figure/Figure29.jpg, id=356, 758.835pt x 358.941pt>
+File: ./Figure/Figure29.jpg Graphic file (type jpg)
+<use ./Figure/Figure29.jpg>
+Package pdftex.def Info: ./Figure/Figure29.jpg  used on input line 680.
+(pdftex.def)             Requested size: 113.82033pt x 53.83882pt.
+<./Figure/Figure30.jpg, id=357, 738.96075pt x 359.54324pt>
+File: ./Figure/Figure30.jpg Graphic file (type jpg)
+<use ./Figure/Figure30.jpg>
+Package pdftex.def Info: ./Figure/Figure30.jpg  used on input line 681.
+(pdftex.def)             Requested size: 110.83932pt x 53.92915pt.
+<./Figure/Figure31.jpg, id=358, 738.96075pt x 370.38374pt>
+File: ./Figure/Figure31.jpg Graphic file (type jpg)
+<use ./Figure/Figure31.jpg>
+Package pdftex.def Info: ./Figure/Figure31.jpg  used on input line 682.
+(pdftex.def)             Requested size: 110.83932pt x 55.55516pt.
+ [14 <./Figure/Figure13.png> <./Figure/Figure19.jpg>]
+<./Figure/Figure15.png, id=370, 370.38374pt x 248.127pt>
+File: ./Figure/Figure15.png Graphic file (type png)
+<use ./Figure/Figure15.png>
+Package pdftex.def Info: ./Figure/Figure15.png  used on input line 703.
+(pdftex.def)             Requested size: 111.11597pt x 74.43866pt.
+<./Figure/Figure32.jpg, id=371, 419.76825pt x 277.035pt>
+File: ./Figure/Figure32.jpg Graphic file (type jpg)
+<use ./Figure/Figure32.jpg>
+Package pdftex.def Info: ./Figure/Figure32.jpg  used on input line 705.
+(pdftex.def)             Requested size: 125.93144pt x 83.11113pt.
+<./Figure/Figure33.jpg, id=372, 431.211pt x 275.8305pt>
+File: ./Figure/Figure33.jpg Graphic file (type jpg)
+<use ./Figure/Figure33.jpg>
+Package pdftex.def Info: ./Figure/Figure33.jpg  used on input line 709.
+(pdftex.def)             Requested size: 129.36429pt x 82.74979pt.
+)
+(capitolo3.tex
+Chapter 3.
+<./Figure/Planning.EM/UnitCell.png, id=373, 412.54124pt x 458.31226pt>
+File: ./Figure/Planning.EM/UnitCell.png Graphic file (type png)
+<use ./Figure/Planning.EM/UnitCell.png>
+Package pdftex.def Info: ./Figure/Planning.EM/UnitCell.png  used on input line 
+8.
+(pdftex.def)             Requested size: 144.39159pt x 160.41168pt.
+[15 <./Figure/Figure20.jpg> <./Figure/Figure21.jpg> <./Figure/Figure22.jpg> <./
+Figure/Figure26.jpg> <./Figure/Figure27.jpg> <./Figure/Figure28.jpg> <./Figure/
+Figure23.jpg> <./Figure/Figure24.jpg> <./Figure/Figure25.jpg> <./Figure/Figure2
+9.jpg> <./Figure/Figure30.jpg> <./Figure/Figure31.jpg> <./Figure/Figure15.png> 
+<./Figure/Figure32.jpg> <./Figure/Figure33.jpg>]
+Underfull \hbox (badness 1509) in paragraph at lines 37--38
+[]\OT1/cmr/m/n/9 BTS Az-imuth An-gu-lar Ex-ten-sion: $\OML/cmm/m/it/9  \OT1/c
+mr/m/n/9 =
+ []
+
+<./Figure/Planning.EM/Fig.Scenario.BTS.jpg, id=382, 1639.12375pt x 1321.93875pt
+>
+File: ./Figure/Planning.EM/Fig.Scenario.BTS.jpg Graphic file (type jpg)
+<use ./Figure/Planning.EM/Fig.Scenario.BTS.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/Fig.Scenario.BTS.jpg  used on inp
+ut line 45.
+(pdftex.def)             Requested size: 196.68636pt x 158.62581pt.
+
+Overfull \hbox (15.21059pt too wide) in paragraph at lines 44--49
+[][] 
+ []
+
+<./Figure/Planning.EM/Fig.Scenario.Rovereto.OSM.jpg, id=383, 2051.665pt x 1806.
+75pt>
+File: ./Figure/Planning.EM/Fig.Scenario.Rovereto.OSM.jpg Graphic file (type jpg
+)
+<use ./Figure/Planning.EM/Fig.Scenario.Rovereto.OSM.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/Fig.Scenario.Rovereto.OSM.jpg  us
+ed on input line 57.
+(pdftex.def)             Requested size: 153.86823pt x 135.5004pt.
+<./Figure/Planning.EM/Fig.Scenario.Rovereto.GM.jpg, id=384, 2034.60126pt x 1733
+.47626pt>
+File: ./Figure/Planning.EM/Fig.Scenario.Rovereto.GM.jpg Graphic file (type jpg)
+
+<use ./Figure/Planning.EM/Fig.Scenario.Rovereto.GM.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/Fig.Scenario.Rovereto.GM.jpg  use
+d on input line 58.
+(pdftex.def)             Requested size: 152.5885pt x 130.00511pt.
+[16 <./Figure/Planning.EM/UnitCell.png> <./Figure/Planning.EM/Fig.Scenario.BTS.
+jpg>]
+<./Figure/Planning.EM/Fig.Received.Power.Reference.jpg, id=393, 1967.35pt x 132
+2.9425pt>
+File: ./Figure/Planning.EM/Fig.Received.Power.Reference.jpg Graphic file (type 
+jpg)
+<use ./Figure/Planning.EM/Fig.Received.Power.Reference.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/Fig.Received.Power.Reference.jpg 
+ used on input line 75.
+(pdftex.def)             Requested size: 236.07181pt x 158.74625pt.
+<./Figure/Planning.EM/Fig.Received.Power.Threshold.-65dBm.jpg, id=394, 1639.123
+75pt x 1530.71875pt>
+File: ./Figure/Planning.EM/Fig.Received.Power.Threshold.-65dBm.jpg Graphic file
+ (type jpg)
+<use ./Figure/Planning.EM/Fig.Received.Power.Threshold.-65dBm.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/Fig.Received.Power.Threshold.-65d
+Bm.jpg  used on input line 75.
+(pdftex.def)             Requested size: 196.68636pt x 183.67831pt.
+<./Figure/Planning.EM/RoI1/1/Fig.Received.Power.ZOOM.H-QoS-01.Reference.jpg, id
+=395, 1825.82124pt x 1346.02875pt>
+File: ./Figure/Planning.EM/RoI1/1/Fig.Received.Power.ZOOM.H-QoS-01.Reference.jp
+g Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI1/1/Fig.Received.Power.ZOOM.H-QoS-01.Reference.jpg
+>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI1/1/Fig.Received.Power.ZOOM.H-
+QoS-01.Reference.jpg  used on input line 89.
+(pdftex.def)             Requested size: 182.59282pt x 134.61075pt.
+<./Figure/Planning.EM/RoI1/1/Fig.Received.Power.ZOOM.RoI.Reference.Threshold.-6
+5dBm.jpg, id=396, 1541.76pt x 1554.80875pt>
+File: ./Figure/Planning.EM/RoI1/1/Fig.Received.Power.ZOOM.RoI.Reference.Thresho
+ld.-65dBm.jpg Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI1/1/Fig.Received.Power.ZOOM.RoI.Reference.Threshol
+d.-65dBm.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI1/1/Fig.Received.Power.ZOOM.Ro
+I.Reference.Threshold.-65dBm.jpg  used on input line 89.
+(pdftex.def)             Requested size: 154.18503pt x 155.48997pt.
+<./Figure/Planning.EM/RoI2/2/Fig.Received.Power.ZOOM.H-QoS-02.Reference.jpg, id
+=397, 1785.67125pt x 1346.02875pt>
+File: ./Figure/Planning.EM/RoI2/2/Fig.Received.Power.ZOOM.H-QoS-02.Reference.jp
+g Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI2/2/Fig.Received.Power.ZOOM.H-QoS-02.Reference.jpg
+>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI2/2/Fig.Received.Power.ZOOM.H-
+QoS-02.Reference.jpg  used on input line 90.
+(pdftex.def)             Requested size: 178.57758pt x 134.61075pt.
+<./Figure/Planning.EM/RoI2/2/Fig.Received.Power.ZOOM.RoI.Reference.Threshold.-6
+5dBm.jpg, id=398, 1501.61pt x 1554.80875pt>
+File: ./Figure/Planning.EM/RoI2/2/Fig.Received.Power.ZOOM.RoI.Reference.Thresho
+ld.-65dBm.jpg Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI2/2/Fig.Received.Power.ZOOM.RoI.Reference.Threshol
+d.-65dBm.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI2/2/Fig.Received.Power.ZOOM.Ro
+I.Reference.Threshold.-65dBm.jpg  used on input line 90.
+(pdftex.def)             Requested size: 150.1698pt x 155.48997pt.
+<./Figure/Planning.EM/RoI3/3/Fig.Received.Power.ZOOM.H-QoS-03.Reference.jpg, id
+=399, 1785.67125pt x 1346.02875pt>
+File: ./Figure/Planning.EM/RoI3/3/Fig.Received.Power.ZOOM.H-QoS-03.Reference.jp
+g Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI3/3/Fig.Received.Power.ZOOM.H-QoS-03.Reference.jpg
+>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI3/3/Fig.Received.Power.ZOOM.H-
+QoS-03.Reference.jpg  used on input line 91.
+(pdftex.def)             Requested size: 178.57758pt x 134.61075pt.
+<./Figure/Planning.EM/RoI3/3/Fig.Received.Power.ZOOM.RoI.Reference.Threshold.-6
+5dBm.jpg, id=400, 1501.61pt x 1554.80875pt>
+File: ./Figure/Planning.EM/RoI3/3/Fig.Received.Power.ZOOM.RoI.Reference.Thresho
+ld.-65dBm.jpg Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI3/3/Fig.Received.Power.ZOOM.RoI.Reference.Threshol
+d.-65dBm.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI3/3/Fig.Received.Power.ZOOM.Ro
+I.Reference.Threshold.-65dBm.jpg  used on input line 91.
+(pdftex.def)             Requested size: 150.1698pt x 155.48997pt.
+ [17 <./Figure/Planning.EM/Fig.Scenario.Rovereto.OSM.jpg> <./Figure/Planning.EM
+/Fig.Scenario.Rovereto.GM.jpg> <./Figure/Planning.EM/Fig.Received.Power.Referen
+ce.jpg> <./Figure/Planning.EM/Fig.Received.Power.Threshold.-65dBm.jpg>]
+[18 <./Figure/Planning.EM/RoI1/1/Fig.Received.Power.ZOOM.H-QoS-01.Reference.jpg
+> <./Figure/Planning.EM/RoI1/1/Fig.Received.Power.ZOOM.RoI.Reference.Threshold.
+-65dBm.jpg> <./Figure/Planning.EM/RoI2/2/Fig.Received.Power.ZOOM.H-QoS-02.Refer
+ence.jpg> <./Figure/Planning.EM/RoI2/2/Fig.Received.Power.ZOOM.RoI.Reference.Th
+reshold.-65dBm.jpg> <./Figure/Planning.EM/RoI3/3/Fig.Received.Power.ZOOM.H-QoS-
+03.Reference.jpg> <./Figure/Planning.EM/RoI3/3/Fig.Received.Power.ZOOM.RoI.Refe
+rence.Threshold.-65dBm.jpg>]
+<./Figure/Planning.EM/RoI1/1/Fig.Scenario.ZOOM.H-QoS-01.Smart.Skins.jpg, id=413
+, 1541.76pt x 1346.02875pt>
+File: ./Figure/Planning.EM/RoI1/1/Fig.Scenario.ZOOM.H-QoS-01.Smart.Skins.jpg Gr
+aphic file (type jpg)
+<use ./Figure/Planning.EM/RoI1/1/Fig.Scenario.ZOOM.H-QoS-01.Smart.Skins.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI1/1/Fig.Scenario.ZOOM.H-QoS-01
+.Smart.Skins.jpg  used on input line 129.
+(pdftex.def)             Requested size: 154.18503pt x 134.61075pt.
+<./Figure/Planning.EM/RoI2/2/Fig.Scenario.ZOOM.H-QoS-02.Smart.Skins.jpg, id=414
+, 1501.61pt x 1346.02875pt>
+File: ./Figure/Planning.EM/RoI2/2/Fig.Scenario.ZOOM.H-QoS-02.Smart.Skins.jpg Gr
+aphic file (type jpg)
+<use ./Figure/Planning.EM/RoI2/2/Fig.Scenario.ZOOM.H-QoS-02.Smart.Skins.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI2/2/Fig.Scenario.ZOOM.H-QoS-02
+.Smart.Skins.jpg  used on input line 131.
+(pdftex.def)             Requested size: 150.1698pt x 134.61075pt.
+<./Figure/Planning.EM/RoI3/3/Fig.Scenario.ZOOM.H-QoS-03.Smart.Skins.jpg, id=415
+, 1519.6775pt x 1346.02875pt>
+File: ./Figure/Planning.EM/RoI3/3/Fig.Scenario.ZOOM.H-QoS-03.Smart.Skins.jpg Gr
+aphic file (type jpg)
+<use ./Figure/Planning.EM/RoI3/3/Fig.Scenario.ZOOM.H-QoS-03.Smart.Skins.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI3/3/Fig.Scenario.ZOOM.H-QoS-03
+.Smart.Skins.jpg  used on input line 135.
+(pdftex.def)             Requested size: 151.97665pt x 134.61075pt.
+<./Figure/Planning.EM/Fig.Scenario.BTS.Rays.jpg, id=416, 1639.12375pt x 1321.93
+875pt>
+File: ./Figure/Planning.EM/Fig.Scenario.BTS.Rays.jpg Graphic file (type jpg)
+<use ./Figure/Planning.EM/Fig.Scenario.BTS.Rays.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/Fig.Scenario.BTS.Rays.jpg  used o
+n input line 147.
+(pdftex.def)             Requested size: 163.92197pt x 132.20161pt.
+ [19 <./Figure/Planning.EM/RoI1/1/Fig.Scenario.ZOOM.H-QoS-01.Smart.Skins.jpg> <
+./Figure/Planning.EM/RoI2/2/Fig.Scenario.ZOOM.H-QoS-02.Smart.Skins.jpg> <./Figu
+re/Planning.EM/RoI3/3/Fig.Scenario.ZOOM.H-QoS-03.Smart.Skins.jpg> <./Figure/Pla
+nning.EM/Fig.Scenario.BTS.Rays.jpg>]
+<./Figure/Planning.EM/RoI1/1_1/Fig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg, id=423
+, 1383.1675pt x 1346.02875pt>
+File: ./Figure/Planning.EM/RoI1/1_1/Fig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg Gr
+aphic file (type jpg)
+<use ./Figure/Planning.EM/RoI1/1_1/Fig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI1/1_1/Fig.SQUARE.PATCH-50x50.E
+MS-Layout1.1.jpg  used on input line 245.
+(pdftex.def)             Requested size: 138.32484pt x 134.61075pt.
+<./Figure/Planning.EM/RoI1/1_1/Fig.Directivity.EMS1.1.jpg, id=424, 1915.155pt x
+ 1346.02875pt>
+File: ./Figure/Planning.EM/RoI1/1_1/Fig.Directivity.EMS1.1.jpg Graphic file (ty
+pe jpg)
+<use ./Figure/Planning.EM/RoI1/1_1/Fig.Directivity.EMS1.1.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI1/1_1/Fig.Directivity.EMS1.1.j
+pg  used on input line 247.
+(pdftex.def)             Requested size: 191.52672pt x 134.61075pt.
+<./Figure/Planning.EM/RoI1/1_2/Fig.SQUARE.PATCH-50x50.EMS-Layout1.2.jpg, id=425
+, 1383.1675pt x 1346.02875pt>
+File: ./Figure/Planning.EM/RoI1/1_2/Fig.SQUARE.PATCH-50x50.EMS-Layout1.2.jpg Gr
+aphic file (type jpg)
+<use ./Figure/Planning.EM/RoI1/1_2/Fig.SQUARE.PATCH-50x50.EMS-Layout1.2.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI1/1_2/Fig.SQUARE.PATCH-50x50.E
+MS-Layout1.2.jpg  used on input line 252.
+(pdftex.def)             Requested size: 138.32484pt x 134.61075pt.
+<./Figure/Planning.EM/RoI1/1_2/Fig.Directivity.EMS1.2.jpg, id=426, 1915.155pt x
+ 1346.02875pt>
+File: ./Figure/Planning.EM/RoI1/1_2/Fig.Directivity.EMS1.2.jpg Graphic file (ty
+pe jpg)
+<use ./Figure/Planning.EM/RoI1/1_2/Fig.Directivity.EMS1.2.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI1/1_2/Fig.Directivity.EMS1.2.j
+pg  used on input line 254.
+(pdftex.def)             Requested size: 191.52672pt x 134.61075pt.
+<./Figure/Planning.EM/RoI1/1_3/Fig.SQUARE.PATCH-50x50.EMS-Layout1.3.jpg, id=427
+, 1383.1675pt x 1346.02875pt>
+File: ./Figure/Planning.EM/RoI1/1_3/Fig.SQUARE.PATCH-50x50.EMS-Layout1.3.jpg Gr
+aphic file (type jpg)
+<use ./Figure/Planning.EM/RoI1/1_3/Fig.SQUARE.PATCH-50x50.EMS-Layout1.3.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI1/1_3/Fig.SQUARE.PATCH-50x50.E
+MS-Layout1.3.jpg  used on input line 259.
+(pdftex.def)             Requested size: 138.32484pt x 134.61075pt.
+<./Figure/Planning.EM/RoI1/1_3/Fig.Directivity.EMS1.3.jpg, id=428, 1915.155pt x
+ 1346.02875pt>
+File: ./Figure/Planning.EM/RoI1/1_3/Fig.Directivity.EMS1.3.jpg Graphic file (ty
+pe jpg)
+<use ./Figure/Planning.EM/RoI1/1_3/Fig.Directivity.EMS1.3.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI1/1_3/Fig.Directivity.EMS1.3.j
+pg  used on input line 261.
+(pdftex.def)             Requested size: 191.52672pt x 134.61075pt.
+File: ./Figure/Planning.EM/RoI1/1/Fig.Received.Power.ZOOM.H-QoS-01.Reference.jp
+g Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI1/1/Fig.Received.Power.ZOOM.H-QoS-01.Reference.jpg
+>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI1/1/Fig.Received.Power.ZOOM.H-
+QoS-01.Reference.jpg  used on input line 319.
+(pdftex.def)             Requested size: 1004.2048pt x 740.3181pt.
+File: ./Figure/Planning.EM/RoI1/1/Fig.Received.Power.ZOOM.RoI.Reference.Thresho
+ld.-65dBm.jpg Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI1/1/Fig.Received.Power.ZOOM.RoI.Reference.Threshol
+d.-65dBm.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI1/1/Fig.Received.Power.ZOOM.Ro
+I.Reference.Threshold.-65dBm.jpg  used on input line 319.
+(pdftex.def)             Requested size: 817.12892pt x 824.04472pt.
+<./Figure/Planning.EM/RoI1/1_1/Fig.Received.Power.ZOOM.RoI.Planning.EM.-65dBm.j
+pg, id=429, 1825.82124pt x 1346.02875pt>
+File: ./Figure/Planning.EM/RoI1/1_1/Fig.Received.Power.ZOOM.RoI.Planning.EM.-65
+dBm.jpg Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI1/1_1/Fig.Received.Power.ZOOM.RoI.Planning.EM.-65d
+Bm.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI1/1_1/Fig.Received.Power.ZOOM.
+RoI.Planning.EM.-65dBm.jpg  used on input line 319.
+(pdftex.def)             Requested size: 1004.2048pt x 740.3181pt.
+<./Figure/Planning.EM/RoI1/1_1/Fig.Received.Power.ZOOM.RoI.Planning.EM.Threshol
+d.-65dBm.jpg, id=430, 1541.76pt x 1554.80875pt>
+File: ./Figure/Planning.EM/RoI1/1_1/Fig.Received.Power.ZOOM.RoI.Planning.EM.Thr
+eshold.-65dBm.jpg Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI1/1_1/Fig.Received.Power.ZOOM.RoI.Planning.EM.Thre
+shold.-65dBm.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI1/1_1/Fig.Received.Power.ZOOM.
+RoI.Planning.EM.Threshold.-65dBm.jpg  used on input line 319.
+(pdftex.def)             Requested size: 817.12892pt x 824.04472pt.
+<./Figure/Planning.EM/RoI1/1_1/Fig.Difference.Received.Power.ZOOM.RoI.Threshold
+.-65dBm.Planning.EM.vs.Reference.jpg, id=431, 1541.76pt x 1554.80875pt>
+File: ./Figure/Planning.EM/RoI1/1_1/Fig.Difference.Received.Power.ZOOM.RoI.Thre
+shold.-65dBm.Planning.EM.vs.Reference.jpg Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI1/1_1/Fig.Difference.Received.Power.ZOOM.RoI.Thres
+hold.-65dBm.Planning.EM.vs.Reference.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI1/1_1/Fig.Difference.Received.
+Power.ZOOM.RoI.Threshold.-65dBm.Planning.EM.vs.Reference.jpg  used on input lin
+e 319.
+(pdftex.def)             Requested size: 817.12892pt x 824.04472pt.
+<./Figure/Planning.EM/RoI1/1_2/Fig.Received.Power.ZOOM.RoI.Planning.EM.-65dBm.j
+pg, id=432, 1825.82124pt x 1346.02875pt>
+File: ./Figure/Planning.EM/RoI1/1_2/Fig.Received.Power.ZOOM.RoI.Planning.EM.-65
+dBm.jpg Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI1/1_2/Fig.Received.Power.ZOOM.RoI.Planning.EM.-65d
+Bm.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI1/1_2/Fig.Received.Power.ZOOM.
+RoI.Planning.EM.-65dBm.jpg  used on input line 319.
+(pdftex.def)             Requested size: 1004.2048pt x 740.3181pt.
+<./Figure/Planning.EM/RoI1/1_2/Fig.Received.Power.ZOOM.RoI.Planning.EM.Threshol
+d.-65dBm.jpg, id=433, 1541.76pt x 1554.80875pt>
+File: ./Figure/Planning.EM/RoI1/1_2/Fig.Received.Power.ZOOM.RoI.Planning.EM.Thr
+eshold.-65dBm.jpg Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI1/1_2/Fig.Received.Power.ZOOM.RoI.Planning.EM.Thre
+shold.-65dBm.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI1/1_2/Fig.Received.Power.ZOOM.
+RoI.Planning.EM.Threshold.-65dBm.jpg  used on input line 319.
+(pdftex.def)             Requested size: 817.12892pt x 824.04472pt.
+<./Figure/Planning.EM/RoI1/1_2/Fig.Difference.Received.Power.ZOOM.RoI.Threshold
+.-65dBm.Planning.EM.vs.Reference.jpg, id=434, 1541.76pt x 1554.80875pt>
+File: ./Figure/Planning.EM/RoI1/1_2/Fig.Difference.Received.Power.ZOOM.RoI.Thre
+shold.-65dBm.Planning.EM.vs.Reference.jpg Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI1/1_2/Fig.Difference.Received.Power.ZOOM.RoI.Thres
+hold.-65dBm.Planning.EM.vs.Reference.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI1/1_2/Fig.Difference.Received.
+Power.ZOOM.RoI.Threshold.-65dBm.Planning.EM.vs.Reference.jpg  used on input lin
+e 319.
+(pdftex.def)             Requested size: 817.12892pt x 824.04472pt.
+<./Figure/Planning.EM/RoI1/1_3/Fig.Received.Power.ZOOM.RoI.Planning.EM.-65dBm.j
+pg, id=435, 1825.82124pt x 1346.02875pt>
+File: ./Figure/Planning.EM/RoI1/1_3/Fig.Received.Power.ZOOM.RoI.Planning.EM.-65
+dBm.jpg Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI1/1_3/Fig.Received.Power.ZOOM.RoI.Planning.EM.-65d
+Bm.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI1/1_3/Fig.Received.Power.ZOOM.
+RoI.Planning.EM.-65dBm.jpg  used on input line 319.
+(pdftex.def)             Requested size: 1004.2048pt x 740.3181pt.
+<./Figure/Planning.EM/RoI1/1_3/Fig.Received.Power.ZOOM.RoI.Planning.EM.Threshol
+d.-65dBm.jpg, id=436, 1541.76pt x 1554.80875pt>
+File: ./Figure/Planning.EM/RoI1/1_3/Fig.Received.Power.ZOOM.RoI.Planning.EM.Thr
+eshold.-65dBm.jpg Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI1/1_3/Fig.Received.Power.ZOOM.RoI.Planning.EM.Thre
+shold.-65dBm.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI1/1_3/Fig.Received.Power.ZOOM.
+RoI.Planning.EM.Threshold.-65dBm.jpg  used on input line 319.
+(pdftex.def)             Requested size: 817.12892pt x 824.04472pt.
+<./Figure/Planning.EM/RoI1/1_3/Fig.Difference.Received.Power.ZOOM.RoI.Threshold
+.-65dBm.Planning.EM.vs.Reference.jpg, id=437, 1541.76pt x 1554.80875pt>
+File: ./Figure/Planning.EM/RoI1/1_3/Fig.Difference.Received.Power.ZOOM.RoI.Thre
+shold.-65dBm.Planning.EM.vs.Reference.jpg Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI1/1_3/Fig.Difference.Received.Power.ZOOM.RoI.Thres
+hold.-65dBm.Planning.EM.vs.Reference.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI1/1_3/Fig.Difference.Received.
+Power.ZOOM.RoI.Threshold.-65dBm.Planning.EM.vs.Reference.jpg  used on input lin
+e 319.
+(pdftex.def)             Requested size: 817.12892pt x 824.04472pt.
+ [20 <./Figure/Planning.EM/RoI1/1_1/Fig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg> <
+./Figure/Planning.EM/RoI1/1_1/Fig.Directivity.EMS1.1.jpg> <./Figure/Planning.EM
+/RoI1/1_2/Fig.SQUARE.PATCH-50x50.EMS-Layout1.2.jpg> <./Figure/Planning.EM/RoI1/
+1_2/Fig.Directivity.EMS1.2.jpg> <./Figure/Planning.EM/RoI1/1_3/Fig.SQUARE.PATCH
+-50x50.EMS-Layout1.3.jpg> <./Figure/Planning.EM/RoI1/1_3/Fig.Directivity.EMS1.3
+.jpg>]
+File: ./Figure/Planning.EM/RoI1/1_3/Fig.Received.Power.ZOOM.RoI.Planning.EM.Thr
+eshold.-65dBm.jpg Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI1/1_3/Fig.Received.Power.ZOOM.RoI.Planning.EM.Thre
+shold.-65dBm.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI1/1_3/Fig.Received.Power.ZOOM.
+RoI.Planning.EM.Threshold.-65dBm.jpg  used on input line 345.
+(pdftex.def)             Requested size: 154.18503pt x 155.48997pt.
+<./Figure/Planning.EM/RoI1/1/Fig.Received.Power.ZOOM.RoI.Planning.EM.Threshold.
+-65dBm.jpg, id=445, 1541.76pt x 1554.80875pt>
+File: ./Figure/Planning.EM/RoI1/1/Fig.Received.Power.ZOOM.RoI.Planning.EM.Thres
+hold.-65dBm.jpg Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI1/1/Fig.Received.Power.ZOOM.RoI.Planning.EM.Thresh
+old.-65dBm.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI1/1/Fig.Received.Power.ZOOM.Ro
+I.Planning.EM.Threshold.-65dBm.jpg  used on input line 347.
+(pdftex.def)             Requested size: 154.18503pt x 155.48997pt.
+<./Figure/Planning.EM/RoI1/1/Fig.Difference.Received.Power.ZOOM.RoI.Threshold.-
+65dBm.Planning.EM.vs.Reference.jpg, id=446, 1541.76pt x 1554.80875pt>
+File: ./Figure/Planning.EM/RoI1/1/Fig.Difference.Received.Power.ZOOM.RoI.Thresh
+old.-65dBm.Planning.EM.vs.Reference.jpg Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI1/1/Fig.Difference.Received.Power.ZOOM.RoI.Thresho
+ld.-65dBm.Planning.EM.vs.Reference.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI1/1/Fig.Difference.Received.Po
+wer.ZOOM.RoI.Threshold.-65dBm.Planning.EM.vs.Reference.jpg  used on input line 
+349.
+(pdftex.def)             Requested size: 154.18503pt x 155.48997pt.
+<./Figure/Planning.EM/RoI1/1/Fig.Cumulative.Density.Function.RoI.Threshold.-65d
+Bm.jpg, id=447, 1934.22626pt x 1315.91624pt>
+File: ./Figure/Planning.EM/RoI1/1/Fig.Cumulative.Density.Function.RoI.Threshold
+.-65dBm.jpg Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI1/1/Fig.Cumulative.Density.Function.RoI.Threshold.
+-65dBm.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI1/1/Fig.Cumulative.Density.Fun
+ction.RoI.Threshold.-65dBm.jpg  used on input line 355.
+(pdftex.def)             Requested size: 193.43396pt x 131.59933pt.
+
+Overfull \hbox (14.85826pt too wide) in paragraph at lines 340--357
+ [] 
+ []
+
+[21 <./Figure/Planning.EM/RoI1/1_1/Fig.Received.Power.ZOOM.RoI.Planning.EM.-65d
+Bm.jpg> <./Figure/Planning.EM/RoI1/1_1/Fig.Received.Power.ZOOM.RoI.Planning.EM.
+Threshold.-65dBm.jpg> <./Figure/Planning.EM/RoI1/1_1/Fig.Difference.Received.Po
+wer.ZOOM.RoI.Threshold.-65dBm.Planning.EM.vs.Reference.jpg> <./Figure/Planning.
+EM/RoI1/1_2/Fig.Received.Power.ZOOM.RoI.Planning.EM.-65dBm.jpg> <./Figure/Plann
+ing.EM/RoI1/1_2/Fig.Received.Power.ZOOM.RoI.Planning.EM.Threshold.-65dBm.jpg> <
+./Figure/Planning.EM/RoI1/1_2/Fig.Difference.Received.Power.ZOOM.RoI.Threshold.
+-65dBm.Planning.EM.vs.Reference.jpg> <./Figure/Planning.EM/RoI1/1_3/Fig.Receive
+d.Power.ZOOM.RoI.Planning.EM.-65dBm.jpg> <./Figure/Planning.EM/RoI1/1_3/Fig.Rec
+eived.Power.ZOOM.RoI.Planning.EM.Threshold.-65dBm.jpg> <./Figure/Planning.EM/Ro
+I1/1_3/Fig.Difference.Received.Power.ZOOM.RoI.Threshold.-65dBm.Planning.EM.vs.R
+eference.jpg>]
+<./Figure/Planning.EM/RoI2/2_1/Fig.SQUARE.PATCH-50x50.EMS-Layout2.1.jpg, id=454
+, 1383.1675pt x 1346.02875pt>
+File: ./Figure/Planning.EM/RoI2/2_1/Fig.SQUARE.PATCH-50x50.EMS-Layout2.1.jpg Gr
+aphic file (type jpg)
+<use ./Figure/Planning.EM/RoI2/2_1/Fig.SQUARE.PATCH-50x50.EMS-Layout2.1.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI2/2_1/Fig.SQUARE.PATCH-50x50.E
+MS-Layout2.1.jpg  used on input line 464.
+(pdftex.def)             Requested size: 138.32484pt x 134.61075pt.
+<./Figure/Planning.EM/RoI2/2_1/Fig.Directivity.EMS2.1.jpg, id=455, 1915.155pt x
+ 1346.02875pt>
+File: ./Figure/Planning.EM/RoI2/2_1/Fig.Directivity.EMS2.1.jpg Graphic file (ty
+pe jpg)
+<use ./Figure/Planning.EM/RoI2/2_1/Fig.Directivity.EMS2.1.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI2/2_1/Fig.Directivity.EMS2.1.j
+pg  used on input line 466.
+(pdftex.def)             Requested size: 191.52672pt x 134.61075pt.
+<./Figure/Planning.EM/RoI2/2_2/Fig.SQUARE.PATCH-50x50.EMS-Layout2.2.jpg, id=456
+, 1383.1675pt x 1346.02875pt>
+File: ./Figure/Planning.EM/RoI2/2_2/Fig.SQUARE.PATCH-50x50.EMS-Layout2.2.jpg Gr
+aphic file (type jpg)
+<use ./Figure/Planning.EM/RoI2/2_2/Fig.SQUARE.PATCH-50x50.EMS-Layout2.2.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI2/2_2/Fig.SQUARE.PATCH-50x50.E
+MS-Layout2.2.jpg  used on input line 471.
+(pdftex.def)             Requested size: 138.32484pt x 134.61075pt.
+<./Figure/Planning.EM/RoI2/2_2/Fig.Directivity.EMS2.2.jpg, id=457, 1915.155pt x
+ 1346.02875pt>
+File: ./Figure/Planning.EM/RoI2/2_2/Fig.Directivity.EMS2.2.jpg Graphic file (ty
+pe jpg)
+<use ./Figure/Planning.EM/RoI2/2_2/Fig.Directivity.EMS2.2.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI2/2_2/Fig.Directivity.EMS2.2.j
+pg  used on input line 473.
+(pdftex.def)             Requested size: 191.52672pt x 134.61075pt.
+<./Figure/Planning.EM/RoI2/2_3/Fig.SQUARE.PATCH-50x50.EMS-Layout2.3.jpg, id=458
+, 1383.1675pt x 1346.02875pt>
+File: ./Figure/Planning.EM/RoI2/2_3/Fig.SQUARE.PATCH-50x50.EMS-Layout2.3.jpg Gr
+aphic file (type jpg)
+<use ./Figure/Planning.EM/RoI2/2_3/Fig.SQUARE.PATCH-50x50.EMS-Layout2.3.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI2/2_3/Fig.SQUARE.PATCH-50x50.E
+MS-Layout2.3.jpg  used on input line 478.
+(pdftex.def)             Requested size: 138.32484pt x 134.61075pt.
+<./Figure/Planning.EM/RoI2/2_3/Fig.Directivity.EMS2.3.jpg, id=459, 1915.155pt x
+ 1346.02875pt>
+File: ./Figure/Planning.EM/RoI2/2_3/Fig.Directivity.EMS2.3.jpg Graphic file (ty
+pe jpg)
+<use ./Figure/Planning.EM/RoI2/2_3/Fig.Directivity.EMS2.3.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI2/2_3/Fig.Directivity.EMS2.3.j
+pg  used on input line 480.
+(pdftex.def)             Requested size: 191.52672pt x 134.61075pt.
+<./Figure/Planning.EM/RoI2/2_4/Fig.SQUARE.PATCH-50x50.EMS-Layout2.4.jpg, id=460
+, 1383.1675pt x 1346.02875pt>
+File: ./Figure/Planning.EM/RoI2/2_4/Fig.SQUARE.PATCH-50x50.EMS-Layout2.4.jpg Gr
+aphic file (type jpg)
+<use ./Figure/Planning.EM/RoI2/2_4/Fig.SQUARE.PATCH-50x50.EMS-Layout2.4.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI2/2_4/Fig.SQUARE.PATCH-50x50.E
+MS-Layout2.4.jpg  used on input line 485.
+(pdftex.def)             Requested size: 138.32484pt x 134.61075pt.
+<./Figure/Planning.EM/RoI2/2_4/Fig.Directivity.EMS2.4.jpg, id=461, 1915.155pt x
+ 1346.02875pt>
+File: ./Figure/Planning.EM/RoI2/2_4/Fig.Directivity.EMS2.4.jpg Graphic file (ty
+pe jpg)
+<use ./Figure/Planning.EM/RoI2/2_4/Fig.Directivity.EMS2.4.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI2/2_4/Fig.Directivity.EMS2.4.j
+pg  used on input line 487.
+(pdftex.def)             Requested size: 191.52672pt x 134.61075pt.
+ [22 <./Figure/Planning.EM/RoI1/1/Fig.Received.Power.ZOOM.RoI.Planning.EM.Thres
+hold.-65dBm.jpg> <./Figure/Planning.EM/RoI1/1/Fig.Difference.Received.Power.ZOO
+M.RoI.Threshold.-65dBm.Planning.EM.vs.Reference.jpg> <./Figure/Planning.EM/RoI1
+/1/Fig.Cumulative.Density.Function.RoI.Threshold.-65dBm.jpg>]
+File: ./Figure/Planning.EM/RoI2/2/Fig.Received.Power.ZOOM.H-QoS-02.Reference.jp
+g Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI2/2/Fig.Received.Power.ZOOM.H-QoS-02.Reference.jpg
+>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI2/2/Fig.Received.Power.ZOOM.H-
+QoS-02.Reference.jpg  used on input line 505.
+(pdftex.def)             Requested size: 142.85661pt x 107.6845pt.
+<./Figure/Planning.EM/RoI2/2_1/Fig.Received.Power.ZOOM.RoI.Planning.EM.Threshol
+d.-65dBm.jpg, id=470, 1501.61pt x 1554.80875pt>
+File: ./Figure/Planning.EM/RoI2/2_1/Fig.Received.Power.ZOOM.RoI.Planning.EM.Thr
+eshold.-65dBm.jpg Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI2/2_1/Fig.Received.Power.ZOOM.RoI.Planning.EM.Thre
+shold.-65dBm.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI2/2_1/Fig.Received.Power.ZOOM.
+RoI.Planning.EM.Threshold.-65dBm.jpg  used on input line 507.
+(pdftex.def)             Requested size: 120.13126pt x 124.38724pt.
+<./Figure/Planning.EM/RoI2/2_1/Fig.Received.Power.ZOOM.H-QoS-02.Reference.jpg, 
+id=471, 1785.67125pt x 1346.02875pt>
+File: ./Figure/Planning.EM/RoI2/2_1/Fig.Received.Power.ZOOM.H-QoS-02.Reference.
+jpg Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI2/2_1/Fig.Received.Power.ZOOM.H-QoS-02.Reference.j
+pg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI2/2_1/Fig.Received.Power.ZOOM.
+H-QoS-02.Reference.jpg  used on input line 513.
+(pdftex.def)             Requested size: 142.85661pt x 107.6845pt.
+File: ./Figure/Planning.EM/RoI2/2_1/Fig.Received.Power.ZOOM.RoI.Planning.EM.Thr
+eshold.-65dBm.jpg Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI2/2_1/Fig.Received.Power.ZOOM.RoI.Planning.EM.Thre
+shold.-65dBm.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI2/2_1/Fig.Received.Power.ZOOM.
+RoI.Planning.EM.Threshold.-65dBm.jpg  used on input line 515.
+(pdftex.def)             Requested size: 120.13126pt x 124.38724pt.
+<./Figure/Planning.EM/RoI2/2_1/Fig.Difference.Received.Power.ZOOM.RoI.Threshold
+.-65dBm.Planning.EM.vs.Reference.jpg, id=472, 1501.61pt x 1554.80875pt>
+File: ./Figure/Planning.EM/RoI2/2_1/Fig.Difference.Received.Power.ZOOM.RoI.Thre
+shold.-65dBm.Planning.EM.vs.Reference.jpg Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI2/2_1/Fig.Difference.Received.Power.ZOOM.RoI.Thres
+hold.-65dBm.Planning.EM.vs.Reference.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI2/2_1/Fig.Difference.Received.
+Power.ZOOM.RoI.Threshold.-65dBm.Planning.EM.vs.Reference.jpg  used on input lin
+e 517.
+(pdftex.def)             Requested size: 120.13126pt x 124.38724pt.
+<./Figure/Planning.EM/RoI2/2_2/Fig.Received.Power.ZOOM.H-QoS-02.Reference.jpg, 
+id=473, 1785.67125pt x 1346.02875pt>
+File: ./Figure/Planning.EM/RoI2/2_2/Fig.Received.Power.ZOOM.H-QoS-02.Reference.
+jpg Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI2/2_2/Fig.Received.Power.ZOOM.H-QoS-02.Reference.j
+pg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI2/2_2/Fig.Received.Power.ZOOM.
+H-QoS-02.Reference.jpg  used on input line 522.
+(pdftex.def)             Requested size: 142.85661pt x 107.6845pt.
+<./Figure/Planning.EM/RoI2/2_2/Fig.Received.Power.ZOOM.RoI.Planning.EM.Threshol
+d.-65dBm.jpg, id=474, 1501.61pt x 1554.80875pt>
+File: ./Figure/Planning.EM/RoI2/2_2/Fig.Received.Power.ZOOM.RoI.Planning.EM.Thr
+eshold.-65dBm.jpg Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI2/2_2/Fig.Received.Power.ZOOM.RoI.Planning.EM.Thre
+shold.-65dBm.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI2/2_2/Fig.Received.Power.ZOOM.
+RoI.Planning.EM.Threshold.-65dBm.jpg  used on input line 524.
+(pdftex.def)             Requested size: 120.13126pt x 124.38724pt.
+<./Figure/Planning.EM/RoI2/2_2/Fig.Difference.Received.Power.ZOOM.RoI.Threshold
+.-65dBm.Planning.EM.vs.Reference.jpg, id=475, 1501.61pt x 1554.80875pt>
+File: ./Figure/Planning.EM/RoI2/2_2/Fig.Difference.Received.Power.ZOOM.RoI.Thre
+shold.-65dBm.Planning.EM.vs.Reference.jpg Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI2/2_2/Fig.Difference.Received.Power.ZOOM.RoI.Thres
+hold.-65dBm.Planning.EM.vs.Reference.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI2/2_2/Fig.Difference.Received.
+Power.ZOOM.RoI.Threshold.-65dBm.Planning.EM.vs.Reference.jpg  used on input lin
+e 526.
+(pdftex.def)             Requested size: 120.13126pt x 124.38724pt.
+<./Figure/Planning.EM/RoI2/2_3/Fig.Received.Power.ZOOM.H-QoS-02.Reference.jpg, 
+id=476, 1785.67125pt x 1346.02875pt>
+File: ./Figure/Planning.EM/RoI2/2_3/Fig.Received.Power.ZOOM.H-QoS-02.Reference.
+jpg Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI2/2_3/Fig.Received.Power.ZOOM.H-QoS-02.Reference.j
+pg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI2/2_3/Fig.Received.Power.ZOOM.
+H-QoS-02.Reference.jpg  used on input line 531.
+(pdftex.def)             Requested size: 142.85661pt x 107.6845pt.
+<./Figure/Planning.EM/RoI2/2_3/Fig.Received.Power.ZOOM.RoI.Planning.EM.Threshol
+d.-65dBm.jpg, id=477, 1501.61pt x 1554.80875pt>
+File: ./Figure/Planning.EM/RoI2/2_3/Fig.Received.Power.ZOOM.RoI.Planning.EM.Thr
+eshold.-65dBm.jpg Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI2/2_3/Fig.Received.Power.ZOOM.RoI.Planning.EM.Thre
+shold.-65dBm.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI2/2_3/Fig.Received.Power.ZOOM.
+RoI.Planning.EM.Threshold.-65dBm.jpg  used on input line 533.
+(pdftex.def)             Requested size: 120.13126pt x 124.38724pt.
+<./Figure/Planning.EM/RoI2/2_3/Fig.Difference.Received.Power.ZOOM.RoI.Threshold
+.-65dBm.Planning.EM.vs.Reference.jpg, id=478, 1501.61pt x 1554.80875pt>
+File: ./Figure/Planning.EM/RoI2/2_3/Fig.Difference.Received.Power.ZOOM.RoI.Thre
+shold.-65dBm.Planning.EM.vs.Reference.jpg Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI2/2_3/Fig.Difference.Received.Power.ZOOM.RoI.Thres
+hold.-65dBm.Planning.EM.vs.Reference.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI2/2_3/Fig.Difference.Received.
+Power.ZOOM.RoI.Threshold.-65dBm.Planning.EM.vs.Reference.jpg  used on input lin
+e 535.
+(pdftex.def)             Requested size: 120.13126pt x 124.38724pt.
+<./Figure/Planning.EM/RoI2/2_4/Fig.Received.Power.ZOOM.H-QoS-02.Reference.jpg, 
+id=479, 1785.67125pt x 1346.02875pt>
+File: ./Figure/Planning.EM/RoI2/2_4/Fig.Received.Power.ZOOM.H-QoS-02.Reference.
+jpg Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI2/2_4/Fig.Received.Power.ZOOM.H-QoS-02.Reference.j
+pg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI2/2_4/Fig.Received.Power.ZOOM.
+H-QoS-02.Reference.jpg  used on input line 540.
+(pdftex.def)             Requested size: 142.85661pt x 107.6845pt.
+<./Figure/Planning.EM/RoI2/2_4/Fig.Received.Power.ZOOM.RoI.Planning.EM.Threshol
+d.-65dBm.jpg, id=480, 1501.61pt x 1554.80875pt>
+File: ./Figure/Planning.EM/RoI2/2_4/Fig.Received.Power.ZOOM.RoI.Planning.EM.Thr
+eshold.-65dBm.jpg Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI2/2_4/Fig.Received.Power.ZOOM.RoI.Planning.EM.Thre
+shold.-65dBm.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI2/2_4/Fig.Received.Power.ZOOM.
+RoI.Planning.EM.Threshold.-65dBm.jpg  used on input line 542.
+(pdftex.def)             Requested size: 120.13126pt x 124.38724pt.
+<./Figure/Planning.EM/RoI2/2_4/Fig.Difference.Received.Power.ZOOM.RoI.Threshold
+.-65dBm.Planning.EM.vs.Reference.jpg, id=481, 1501.61pt x 1554.80875pt>
+File: ./Figure/Planning.EM/RoI2/2_4/Fig.Difference.Received.Power.ZOOM.RoI.Thre
+shold.-65dBm.Planning.EM.vs.Reference.jpg Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI2/2_4/Fig.Difference.Received.Power.ZOOM.RoI.Thres
+hold.-65dBm.Planning.EM.vs.Reference.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI2/2_4/Fig.Difference.Received.
+Power.ZOOM.RoI.Threshold.-65dBm.Planning.EM.vs.Reference.jpg  used on input lin
+e 544.
+(pdftex.def)             Requested size: 120.13126pt x 124.38724pt.
+
+[23 <./Figure/Planning.EM/RoI2/2_1/Fig.SQUARE.PATCH-50x50.EMS-Layout2.1.jpg> <.
+/Figure/Planning.EM/RoI2/2_1/Fig.Directivity.EMS2.1.jpg> <./Figure/Planning.EM/
+RoI2/2_2/Fig.SQUARE.PATCH-50x50.EMS-Layout2.2.jpg> <./Figure/Planning.EM/RoI2/2
+_2/Fig.Directivity.EMS2.2.jpg> <./Figure/Planning.EM/RoI2/2_3/Fig.SQUARE.PATCH-
+50x50.EMS-Layout2.3.jpg> <./Figure/Planning.EM/RoI2/2_3/Fig.Directivity.EMS2.3.
+jpg> <./Figure/Planning.EM/RoI2/2_4/Fig.SQUARE.PATCH-50x50.EMS-Layout2.4.jpg> <
+./Figure/Planning.EM/RoI2/2_4/Fig.Directivity.EMS2.4.jpg>]
+File: ./Figure/Planning.EM/RoI2/2_1/Fig.Received.Power.ZOOM.RoI.Planning.EM.Thr
+eshold.-65dBm.jpg Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI2/2_1/Fig.Received.Power.ZOOM.RoI.Planning.EM.Thre
+shold.-65dBm.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI2/2_1/Fig.Received.Power.ZOOM.
+RoI.Planning.EM.Threshold.-65dBm.jpg  used on input line 568.
+(pdftex.def)             Requested size: 150.1698pt x 155.48997pt.
+<./Figure/Planning.EM/RoI2/2/Fig.Received.Power.ZOOM.RoI.Planning.EM.Threshold.
+-65dBm.jpg, id=487, 1501.61pt x 1554.80875pt>
+File: ./Figure/Planning.EM/RoI2/2/Fig.Received.Power.ZOOM.RoI.Planning.EM.Thres
+hold.-65dBm.jpg Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI2/2/Fig.Received.Power.ZOOM.RoI.Planning.EM.Thresh
+old.-65dBm.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI2/2/Fig.Received.Power.ZOOM.Ro
+I.Planning.EM.Threshold.-65dBm.jpg  used on input line 570.
+(pdftex.def)             Requested size: 150.1698pt x 155.48997pt.
+<./Figure/Planning.EM/RoI2/2/Fig.Difference.Received.Power.ZOOM.RoI.Threshold.-
+65dBm.Planning.EM.vs.Reference.jpg, id=488, 1501.61pt x 1554.80875pt>
+File: ./Figure/Planning.EM/RoI2/2/Fig.Difference.Received.Power.ZOOM.RoI.Thresh
+old.-65dBm.Planning.EM.vs.Reference.jpg Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI2/2/Fig.Difference.Received.Power.ZOOM.RoI.Thresho
+ld.-65dBm.Planning.EM.vs.Reference.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI2/2/Fig.Difference.Received.Po
+wer.ZOOM.RoI.Threshold.-65dBm.Planning.EM.vs.Reference.jpg  used on input line 
+572.
+(pdftex.def)             Requested size: 150.1698pt x 155.48997pt.
+<./Figure/Planning.EM/RoI2/2/Fig.Cumulative.Density.Function.RoI.Threshold.-65d
+Bm.jpg, id=489, 1884.03876pt x 1402.23875pt>
+File: ./Figure/Planning.EM/RoI2/2/Fig.Cumulative.Density.Function.RoI.Threshold
+.-65dBm.jpg Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI2/2/Fig.Cumulative.Density.Function.RoI.Threshold.
+-65dBm.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI2/2/Fig.Cumulative.Density.Fun
+ction.RoI.Threshold.-65dBm.jpg  used on input line 578.
+(pdftex.def)             Requested size: 188.41492pt x 140.23209pt.
+
+Overfull \hbox (2.81258pt too wide) in paragraph at lines 563--580
+ [] 
+ []
+
+[24 <./Figure/Planning.EM/RoI2/2_1/Fig.Received.Power.ZOOM.RoI.Planning.EM.Thre
+shold.-65dBm.jpg> <./Figure/Planning.EM/RoI2/2_1/Fig.Received.Power.ZOOM.H-QoS-
+02.Reference.jpg> <./Figure/Planning.EM/RoI2/2_1/Fig.Difference.Received.Power.
+ZOOM.RoI.Threshold.-65dBm.Planning.EM.vs.Reference.jpg> <./Figure/Planning.EM/R
+oI2/2_2/Fig.Received.Power.ZOOM.H-QoS-02.Reference.jpg> <./Figure/Planning.EM/R
+oI2/2_2/Fig.Received.Power.ZOOM.RoI.Planning.EM.Threshold.-65dBm.jpg> <./Figure
+/Planning.EM/RoI2/2_2/Fig.Difference.Received.Power.ZOOM.RoI.Threshold.-65dBm.P
+lanning.EM.vs.Reference.jpg> <./Figure/Planning.EM/RoI2/2_3/Fig.Received.Power.
+ZOOM.H-QoS-02.Reference.jpg> <./Figure/Planning.EM/RoI2/2_3/Fig.Received.Power.
+ZOOM.RoI.Planning.EM.Threshold.-65dBm.jpg> <./Figure/Planning.EM/RoI2/2_3/Fig.D
+ifference.Received.Power.ZOOM.RoI.Threshold.-65dBm.Planning.EM.vs.Reference.jpg
+> <./Figure/Planning.EM/RoI2/2_4/Fig.Received.Power.ZOOM.H-QoS-02.Reference.jpg
+> <./Figure/Planning.EM/RoI2/2_4/Fig.Received.Power.ZOOM.RoI.Planning.EM.Thresh
+old.-65dBm.jpg> <./Figure/Planning.EM/RoI2/2_4/Fig.Difference.Received.Power.ZO
+OM.RoI.Threshold.-65dBm.Planning.EM.vs.Reference.jpg>]
+<./Figure/Planning.EM/RoI3/3_1/Fig.SQUARE.PATCH-50x50.EMS-Layout3.1.jpg, id=497
+, 1383.1675pt x 1346.02875pt>
+File: ./Figure/Planning.EM/RoI3/3_1/Fig.SQUARE.PATCH-50x50.EMS-Layout3.1.jpg Gr
+aphic file (type jpg)
+<use ./Figure/Planning.EM/RoI3/3_1/Fig.SQUARE.PATCH-50x50.EMS-Layout3.1.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI3/3_1/Fig.SQUARE.PATCH-50x50.E
+MS-Layout3.1.jpg  used on input line 661.
+(pdftex.def)             Requested size: 110.65565pt x 107.6845pt.
+<./Figure/Planning.EM/RoI3/3_1/Fig.Directivity.EMS3.1.jpg, id=498, 1915.155pt x
+ 1346.02875pt>
+File: ./Figure/Planning.EM/RoI3/3_1/Fig.Directivity.EMS3.1.jpg Graphic file (ty
+pe jpg)
+<use ./Figure/Planning.EM/RoI3/3_1/Fig.Directivity.EMS3.1.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI3/3_1/Fig.Directivity.EMS3.1.j
+pg  used on input line 663.
+(pdftex.def)             Requested size: 153.21553pt x 107.6845pt.
+<./Figure/Planning.EM/RoI3/3_2/Fig.SQUARE.PATCH-50x50.EMS-Layout3.2.jpg, id=499
+, 1383.1675pt x 1346.02875pt>
+File: ./Figure/Planning.EM/RoI3/3_2/Fig.SQUARE.PATCH-50x50.EMS-Layout3.2.jpg Gr
+aphic file (type jpg)
+<use ./Figure/Planning.EM/RoI3/3_2/Fig.SQUARE.PATCH-50x50.EMS-Layout3.2.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI3/3_2/Fig.SQUARE.PATCH-50x50.E
+MS-Layout3.2.jpg  used on input line 668.
+(pdftex.def)             Requested size: 110.65565pt x 107.6845pt.
+<./Figure/Planning.EM/RoI3/3_2/Fig.Directivity.EMS3.2.jpg, id=500, 1915.155pt x
+ 1346.02875pt>
+File: ./Figure/Planning.EM/RoI3/3_2/Fig.Directivity.EMS3.2.jpg Graphic file (ty
+pe jpg)
+<use ./Figure/Planning.EM/RoI3/3_2/Fig.Directivity.EMS3.2.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI3/3_2/Fig.Directivity.EMS3.2.j
+pg  used on input line 670.
+(pdftex.def)             Requested size: 153.21553pt x 107.6845pt.
+ [25 <./Figure/Planning.EM/RoI2/2/Fig.Received.Power.ZOOM.RoI.Planning.EM.Thres
+hold.-65dBm.jpg> <./Figure/Planning.EM/RoI2/2/Fig.Difference.Received.Power.ZOO
+M.RoI.Threshold.-65dBm.Planning.EM.vs.Reference.jpg> <./Figure/Planning.EM/RoI2
+/2/Fig.Cumulative.Density.Function.RoI.Threshold.-65dBm.jpg>]
+File: ./Figure/Planning.EM/RoI3/3/Fig.Received.Power.ZOOM.H-QoS-03.Reference.jp
+g Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI3/3/Fig.Received.Power.ZOOM.H-QoS-03.Reference.jpg
+>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI3/3/Fig.Received.Power.ZOOM.H-
+QoS-03.Reference.jpg  used on input line 691.
+(pdftex.def)             Requested size: 142.85661pt x 107.6845pt.
+<./Figure/Planning.EM/RoI3/3/Fig.Received.Power.ZOOM.RoI.Planning.EM.Threshold.
+-65dBm.jpg, id=509, 1519.6775pt x 1554.80875pt>
+File: ./Figure/Planning.EM/RoI3/3/Fig.Received.Power.ZOOM.RoI.Planning.EM.Thres
+hold.-65dBm.jpg Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI3/3/Fig.Received.Power.ZOOM.RoI.Planning.EM.Thresh
+old.-65dBm.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI3/3/Fig.Received.Power.ZOOM.Ro
+I.Planning.EM.Threshold.-65dBm.jpg  used on input line 693.
+(pdftex.def)             Requested size: 113.97089pt x 116.60562pt.
+<./Figure/Planning.EM/RoI3/3_1/Fig.Received.Power.ZOOM.H-QoS-03.Reference.jpg, 
+id=510, 1785.67125pt x 1346.02875pt>
+File: ./Figure/Planning.EM/RoI3/3_1/Fig.Received.Power.ZOOM.H-QoS-03.Reference.
+jpg Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI3/3_1/Fig.Received.Power.ZOOM.H-QoS-03.Reference.j
+pg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI3/3_1/Fig.Received.Power.ZOOM.
+H-QoS-03.Reference.jpg  used on input line 699.
+(pdftex.def)             Requested size: 142.85661pt x 107.6845pt.
+<./Figure/Planning.EM/RoI3/3_1/Fig.Received.Power.ZOOM.RoI.Planning.EM.Threshol
+d.-65dBm.jpg, id=511, 1519.6775pt x 1554.80875pt>
+File: ./Figure/Planning.EM/RoI3/3_1/Fig.Received.Power.ZOOM.RoI.Planning.EM.Thr
+eshold.-65dBm.jpg Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI3/3_1/Fig.Received.Power.ZOOM.RoI.Planning.EM.Thre
+shold.-65dBm.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI3/3_1/Fig.Received.Power.ZOOM.
+RoI.Planning.EM.Threshold.-65dBm.jpg  used on input line 701.
+(pdftex.def)             Requested size: 113.97089pt x 116.60562pt.
+<./Figure/Planning.EM/RoI3/3_1/Fig.Difference.Received.Power.ZOOM.RoI.Threshold
+.-65dBm.Planning.EM.vs.Reference.jpg, id=512, 1519.6775pt x 1554.80875pt>
+File: ./Figure/Planning.EM/RoI3/3_1/Fig.Difference.Received.Power.ZOOM.RoI.Thre
+shold.-65dBm.Planning.EM.vs.Reference.jpg Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI3/3_1/Fig.Difference.Received.Power.ZOOM.RoI.Thres
+hold.-65dBm.Planning.EM.vs.Reference.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI3/3_1/Fig.Difference.Received.
+Power.ZOOM.RoI.Threshold.-65dBm.Planning.EM.vs.Reference.jpg  used on input lin
+e 703.
+(pdftex.def)             Requested size: 113.97089pt x 116.60562pt.
+<./Figure/Planning.EM/RoI3/3_2/Fig.Received.Power.ZOOM.H-QoS-03.Reference.jpg, 
+id=513, 1785.67125pt x 1346.02875pt>
+File: ./Figure/Planning.EM/RoI3/3_2/Fig.Received.Power.ZOOM.H-QoS-03.Reference.
+jpg Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI3/3_2/Fig.Received.Power.ZOOM.H-QoS-03.Reference.j
+pg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI3/3_2/Fig.Received.Power.ZOOM.
+H-QoS-03.Reference.jpg  used on input line 708.
+(pdftex.def)             Requested size: 142.85661pt x 107.6845pt.
+<./Figure/Planning.EM/RoI3/3_2/Fig.Received.Power.ZOOM.RoI.Planning.EM.Threshol
+d.-65dBm.jpg, id=514, 1519.6775pt x 1554.80875pt>
+File: ./Figure/Planning.EM/RoI3/3_2/Fig.Received.Power.ZOOM.RoI.Planning.EM.Thr
+eshold.-65dBm.jpg Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI3/3_2/Fig.Received.Power.ZOOM.RoI.Planning.EM.Thre
+shold.-65dBm.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI3/3_2/Fig.Received.Power.ZOOM.
+RoI.Planning.EM.Threshold.-65dBm.jpg  used on input line 710.
+(pdftex.def)             Requested size: 113.97089pt x 116.60562pt.
+<./Figure/Planning.EM/RoI3/3_2/Fig.Difference.Received.Power.ZOOM.RoI.Threshold
+.-65dBm.Planning.EM.vs.Reference.jpg, id=515, 1519.6775pt x 1554.80875pt>
+File: ./Figure/Planning.EM/RoI3/3_2/Fig.Difference.Received.Power.ZOOM.RoI.Thre
+shold.-65dBm.Planning.EM.vs.Reference.jpg Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI3/3_2/Fig.Difference.Received.Power.ZOOM.RoI.Thres
+hold.-65dBm.Planning.EM.vs.Reference.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI3/3_2/Fig.Difference.Received.
+Power.ZOOM.RoI.Threshold.-65dBm.Planning.EM.vs.Reference.jpg  used on input lin
+e 712.
+(pdftex.def)             Requested size: 113.97089pt x 116.60562pt.
+File: ./Figure/Planning.EM/RoI3/3_1/Fig.Received.Power.ZOOM.RoI.Planning.EM.Thr
+eshold.-65dBm.jpg Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI3/3_1/Fig.Received.Power.ZOOM.RoI.Planning.EM.Thre
+shold.-65dBm.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI3/3_1/Fig.Received.Power.ZOOM.
+RoI.Planning.EM.Threshold.-65dBm.jpg  used on input line 736.
+(pdftex.def)             Requested size: 151.97665pt x 155.48997pt.
+File: ./Figure/Planning.EM/RoI3/3/Fig.Received.Power.ZOOM.RoI.Planning.EM.Thres
+hold.-65dBm.jpg Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI3/3/Fig.Received.Power.ZOOM.RoI.Planning.EM.Thresh
+old.-65dBm.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI3/3/Fig.Received.Power.ZOOM.Ro
+I.Planning.EM.Threshold.-65dBm.jpg  used on input line 738.
+(pdftex.def)             Requested size: 151.97665pt x 155.48997pt.
+<./Figure/Planning.EM/RoI3/3/Fig.Difference.Received.Power.ZOOM.RoI.Threshold.-
+65dBm.Planning.EM.vs.Reference.jpg, id=516, 1519.6775pt x 1554.80875pt>
+File: ./Figure/Planning.EM/RoI3/3/Fig.Difference.Received.Power.ZOOM.RoI.Thresh
+old.-65dBm.Planning.EM.vs.Reference.jpg Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI3/3/Fig.Difference.Received.Power.ZOOM.RoI.Thresho
+ld.-65dBm.Planning.EM.vs.Reference.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI3/3/Fig.Difference.Received.Po
+wer.ZOOM.RoI.Threshold.-65dBm.Planning.EM.vs.Reference.jpg  used on input line 
+740.
+(pdftex.def)             Requested size: 151.97665pt x 155.48997pt.
+<./Figure/Planning.EM/RoI3/3/Fig.Cumulative.Density.Function.RoI.Threshold.-65d
+Bm.jpg, id=517, 1934.22626pt x 1315.91624pt>
+File: ./Figure/Planning.EM/RoI3/3/Fig.Cumulative.Density.Function.RoI.Threshold
+.-65dBm.jpg Graphic file (type jpg)
+<use ./Figure/Planning.EM/RoI3/3/Fig.Cumulative.Density.Function.RoI.Threshold.
+-65dBm.jpg>
+Package pdftex.def Info: ./Figure/Planning.EM/RoI3/3/Fig.Cumulative.Density.Fun
+ction.RoI.Threshold.-65dBm.jpg  used on input line 746.
+(pdftex.def)             Requested size: 193.43396pt x 131.59933pt.
+
+Overfull \hbox (8.23314pt too wide) in paragraph at lines 731--748
+ [] 
+ []
+
+[26 <./Figure/Planning.EM/RoI3/3_1/Fig.SQUARE.PATCH-50x50.EMS-Layout3.1.jpg> <.
+/Figure/Planning.EM/RoI3/3_1/Fig.Directivity.EMS3.1.jpg> <./Figure/Planning.EM/
+RoI3/3_2/Fig.SQUARE.PATCH-50x50.EMS-Layout3.2.jpg> <./Figure/Planning.EM/RoI3/3
+_2/Fig.Directivity.EMS3.2.jpg> <./Figure/Planning.EM/RoI3/3/Fig.Received.Power.
+ZOOM.RoI.Planning.EM.Threshold.-65dBm.jpg> <./Figure/Planning.EM/RoI3/3_1/Fig.R
+eceived.Power.ZOOM.H-QoS-03.Reference.jpg> <./Figure/Planning.EM/RoI3/3_1/Fig.R
+eceived.Power.ZOOM.RoI.Planning.EM.Threshold.-65dBm.jpg> <./Figure/Planning.EM/
+RoI3/3_1/Fig.Difference.Received.Power.ZOOM.RoI.Threshold.-65dBm.Planning.EM.vs
+.Reference.jpg> <./Figure/Planning.EM/RoI3/3_2/Fig.Received.Power.ZOOM.H-QoS-03
+.Reference.jpg> <./Figure/Planning.EM/RoI3/3_2/Fig.Received.Power.ZOOM.RoI.Plan
+ning.EM.Threshold.-65dBm.jpg> <./Figure/Planning.EM/RoI3/3_2/Fig.Difference.Rec
+eived.Power.ZOOM.RoI.Threshold.-65dBm.Planning.EM.vs.Reference.jpg>]
+Chapter 4.
+[27 <./Figure/Planning.EM/RoI3/3/Fig.Difference.Received.Power.ZOOM.RoI.Thresho
+ld.-65dBm.Planning.EM.vs.Reference.jpg> <./Figure/Planning.EM/RoI3/3/Fig.Cumula
+tive.Density.Function.RoI.Threshold.-65dBm.jpg>] [28]) [29]
+(Tairovski_Denis_laurea_22.bbl) [30] (Tairovski_Denis_laurea_22.aux)
+
+LaTeX Warning: There were undefined references.
+
+Package rerunfilecheck Info: File `Tairovski_Denis_laurea_22.out' has not chang
+ed.
+(rerunfilecheck)             Checksum: A9AA158A9CB3BDBA6AA611936D5FD656;4598.
+ ) 
+Here is how much of TeX's memory you used:
+ 12412 strings out of 478847
+ 214443 string characters out of 2848386
+ 524240 words of memory out of 3000000
+ 29893 multiletter control sequences out of 15000+600000
+ 420247 words of font info for 89 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,15n,80p,3591b,643s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\dencl\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
+0900.pk> <C:\Users\dencl\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
+0\tcrm1095.pk><C:/Users/dencl/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmbx10.pfb><C:/Users/dencl/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmbx12.pfb><C:/Users/dencl/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Users/dencl/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/dencl/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/dencl/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/de
+ncl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:
+/Users/dencl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6
+.pfb><C:/Users/dencl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmmi8.pfb><C:/Users/dencl/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmmi9.pfb><C:/Users/dencl/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmr10.pfb><C:/Users/dencl/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/dencl/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/dencl/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/dencl/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/dencl/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/den
+cl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/
+Users/dencl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.
+pfb><C:/Users/dencl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
+m/cmsy6.pfb><C:/Users/dencl/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmsy8.pfb><C:/Users/dencl/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmsy9.pfb><C:/Users/dencl/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/dencl/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Users/dencl/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on Tairovski_Denis_laurea_22.pdf (31 pages, 32624479 bytes).
+PDF statistics:
+ 719 PDF objects out of 1000 (max. 8388607)
+ 151 named destinations out of 1000 (max. 500000)
+ 724 words of extra memory for PDF output out of 10000 (max. 10000000)
+
