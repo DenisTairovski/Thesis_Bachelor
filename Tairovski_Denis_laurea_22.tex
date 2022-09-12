@@ -28,6 +28,8 @@
 \usepackage{amssymb}
 \usepackage{longtable}
 \usepackage{float}
+\usepackage{ragged2e}
+
 \usepackage{wrapfig}
 \usepackage[hidelinks]{hyperref}
 \usepackage{etoolbox}
@@ -48,9 +50,10 @@
 \begin{document}
 
   % nessuna numerazione
+  
   \pagenumbering{gobble} 
   \input{pagina_iniziale}
-
+	\input{ringraziamenti}
   %\clearpage
   %\cleardoublepage
 
@@ -135,7 +138,7 @@
     % bibliografia in formato bibtex
     %
     % aggiunta del capitolo nell'indice
-    \addcontentsline{toc}{chapter}{Bibliografia}
+    \addcontentsline{toc}{chapter}{Bibliography}
     % stile con ordinamento alfabetico in funzione degli autori
     \bibliographystyle{plain}
     \bibliography{biblio}

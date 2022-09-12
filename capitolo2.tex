@@ -14,7 +14,7 @@ This Section is focused on the detailed analysis (HL-SoA) of the design methodol
 \end{table}
 \section{Holographic Smart EM Skins for Advanced Beam Power Shaping in Next Generation Wireless Environments \cite{Oliveri:2021}}
 \subsection{Motivation and Principles}
-As the technology moves forward, a much larger quantity of data needs to travel. Nowadays, everything can be done using a mobile device and in order to secure a stable connection, the wireless cellular system need to fulfill a various number of requirements, such as transfer speed, flexibility, coverage, reliability and quality of service. Since the urban environments is in a continuous state of change, the Base Station is incapable to rely on itself. Since the upgrading of the upgrading of the technology behind the Base Stations or the cellular device has its limits, it's fundamental to use the urban environment as efficiently as possible. Every urban environment as much wider and taller building that interrupts the Line-Of-Sight between Base Station and User. That's the main point of creating a Smart Electromagnetic Environment (SEE). Thanks to a SEE, the environment acquires the ability to adapt itself to help fulfilling all those previous citated requirements and, subsequently, the scenario becomes a controllable part of a wireless system . In order to adapt the environment, we use thin meta-surfaces operating as Smart Electromagnetic (EM) Skins. Thanks to this technology, the manipulation of the reflected/transmitted wavefront, at a meta-atomic level, to overcome Snell's Law, is possible. Snell's Law states that, in very simple terms, “input and output angle are the same”. This constraint implies a large set of unconventional phenomena, such as anomalous reflections or perfect absorption. On the other hand, dynamically adjustable artificial materials operating as Reconfigurable Intelligent Surfaces (RIS) give the control of the reflected wave properties in realtime, implying non-negligible implementation complexity, costs and power consumption. On the contrary, static passive smart EM skins (SPSSs) imply no running costs after installation and they potentially have advanced beamforming and contoured footprint radiation capabilities when featuring a holographic layout, therefore enabling to increase the coverage and reduce blind spot regions in urban wireless communications. The negative side of SPSSs are its degrees-of-freedom (DoFs); since the DoFs are severely constrained in terms of the final layout complexity, its design is very challenging. One characteristic that SPSSs need to have it's its size: the size of a SPSSs need to be large enough to reflect an adequate quantity of power to the coverage area but it needs to respect some size limitations in order to not be excessively big. Furthermore, another DoFs that could be considered is the surface orientation; even though its control it’s limited, its usability to enhance the performance of the SPSSs,  respecting the incident direction of the illuminating beam, is necessary. The objective of this paper is to give some indications on the feasibility of simple and inexpensive holographic SPSSs suitable for advanced wave manipulation and beamforming. To achieve this, the need to formulate a complex multiscale EM design problem within the Generalized Sheet Transition Condition (GSTC) theoretical framework is needed. A phase-only inverse source (IS) is adopted to generalize concepts, such as the non-uniqueness of the radiation operator due to the existence of non-radiating (NR) currents for reflect-array engineering to the synthesis of a holographic meta-surface working in the SEE scenario. The footprint coverage capabilities of the smart EM skin arre successively optimized by combining:
+As the technology moves forward, a much larger quantity of data needs to travel. Nowadays, everything can be done using a mobile device and in order to secure a stable connection, the wireless cellular system need to fulfill a various number of requirements, such as transfer speed, flexibility, coverage, reliability and quality of service. Since the urban environments is in a continuous state of change, the Base Station is incapable to rely on itself. Since the upgrading of the upgrading of the technology behind the Base Stations or the cellular device has its limits, it's fundamental to use the urban environment as efficiently as possible. Every urban environment as much wider and taller building that interrupts the Line-Of-Sight between Base Station and User. That's the main point of creating a Smart Electromagnetic Environment (SEE). Thanks to a SEE, the environment acquires the ability to adapt itself to help fulfilling all those previous citated requirements and, subsequently, the scenario becomes a controllable part of a wireless system . In order to adapt the environment, we use thin meta-surfaces operating as Smart Electromagnetic (EM) Skins. Thanks to this technology, the manipulation of the reflected/transmitted wavefront, at a meta-atomic level, to overcome Snell's Law, is possible. Snell's Law states that, in very simple terms, “input and output angle are the same”. This constraint implies a large set of unconventional phenomena, such as anomalous reflections or perfect absorption. On the other hand, dynamically adjustable artificial materials operating as Reconfigurable Intelligent Surfaces (RIS) give the control of the reflected wave properties in realtime, implying non-negligible implementation complexity, costs and power consumption. On the contrary, static passive smart EM skins (SPSSs) imply no running costs after installation and they potentially have advanced beamforming and contoured footprint radiation capabilities when featuring a holographic layout, therefore enabling to increase the coverage and reduce blind spot regions in urban wireless communications. The negative side of SPSSs are its degrees-of-freedom (DoFs); since the DoFs are severely constrained in terms of the final layout complexity, its design is very challenging. One characteristic that SPSSs need to have is its size: the size of a SPSSs need to be large enough to reflect an adequate quantity of power to the coverage area but it needs to respect some size limitations in order to not be excessively big. Furthermore, another DoFs that could be considered is the surface orientation; even though its control it’s limited, its usability to enhance the performance of the SPSSs,  respecting the incident direction of the illuminating beam, is necessary. The objective of this paper is to give some indications on the feasibility of simple and inexpensive holographic SPSSs suitable for advanced wave manipulation and beamforming. To achieve this, the need to formulate a complex multiscale EM design problem within the Generalized Sheet Transition Condition (GSTC) theoretical framework is needed. A phase-only inverse source (IS) is adopted to generalize concepts, such as the non-uniqueness of the radiation operator due to the existence of non-radiating (NR) currents for reflect-array engineering to the synthesis of a holographic meta-surface working in the SEE scenario. The footprint coverage capabilities of the smart EM skin arre successively optimized by combining:
 \begin{itemize}
 \item a local search approach, based on Iterative Projection Technique (IPT): aims at deducing the reference/ideal surface currents affording the user-defined footprint pattern;
 \item a customized version of the System-by-Design (SbD) paradigm: sets the descriptors of the SPSSs for matching these reference currents
@@ -46,11 +46,11 @@ To asses correctly the stated problem, the following auxiliary papers
 \end{table}
 will be used, since they contain a needed case study. It's worth pointing out that the \cite{Oliveri:2021} has more references, but for the sake of the formulation, only these are needed, since they contain important experiments that cannot be vastly explained in this discussion.
 \subsection{Mathematical Formulation and Design Formulas}
-\label{sub:Numerical-Validation}
+\label{sub:Mathematical-And-Design-Formulas}
 \begin{figure}[H]
 \centering
 \includegraphics[scale=0.35]{./Figure/Figure01.png}
-\label{Figure 1}
+\label{cap:Geom}
 \caption{\footnotesize Problem geometry. Sketch of the Smart EM skin scenario illustrating the incident wave vector $k^{inc}$, the observation region $\Theta$, the coverage region $\Xi$ and the holographic SPSSs area with both local $(x, y, z)$ and global $(x^{'}, y^{'}, z^{'})$ coordinates.}
 \end{figure}
 With reference to the scenario in \ref{cap:Geom} and without loss
@@ -162,14 +162,14 @@ where $\bar{\bar{\Gamma}}$ is the local reflection tensor
 
 
 According to the above derivation, the design of the holographic \emph{SPSS}
-able to generate a desiderd footprint mask in a \emph{Coverage Region}
-$\Xi$can be carried out by solving the following two sub-proplems:
+able to generate a desired footprint mask in a \emph{Coverage Region}
+$\Xi$ can be carried out by solving the following two sub-problems:
 
 \begin{itemize}
 \item \emph{Sub-Problem 1}\\
 The synthesis of the \emph{ideal/reference} surface currents, $\{[\mathbf{J}^{w}(\mathbf{r})]^{*};w=\{ e,m\}\}$,
 that radiate a far-field pattern $[\mathbf{E}^{FF}(\mathbf{r})]^{*}=\mathcal{G}\{[\mathbf{J}^{e}(\mathbf{r})]^{*},[\mathbf{J}^{m}(\mathbf{r})]^{*}\}$
-fitting in $\Xi$the pattern requirements expressed in terms of lower,
+fitting in $\Xi$ the pattern requirements expressed in terms of lower,
 $\mathcal{L}(\mathbf{r})$, and upper, $\mathcal{U}(\mathbf{r})$,
 user-defined footprint power masks \begin{equation}
 \mathcal{L}(\mathbf{r})\leq|[\mathbf{E}^{FF}(\mathbf{r})]^{*}|^{2}\leq\mathcal{U}(\mathbf{r})\label{eq:15}\end{equation}
@@ -219,13 +219,13 @@ blocks and their functional relations.}
 
 The problem formulated in \ref{sub:Mathematical-And-Design-Formulas}
 needs a combination of \emph{ad-hoc} customized techniques to be solved.
-In {[}Salucci.2018{]}(\ref{Salucci.2018}), is pointed out that the
+In {[}Salucci.2018{]}(\cite{Salucci:2018}), is pointed out that the
 \emph{IS} is affected by ill-posedness, caused by the nonuniqueness
 of the radiation operator due to the existence of nonradiating currents,
 which is a problem when the \emph{IS} is concerned with the synthesis
 of the \emph{ideal} surface currents, $\{[\mathbf{J}^{w}(\mathbf{r})]^{*};w=\{ e,m\}\}$.
 With that said, it's not doable to directly translate the design method
-used in {[}Salucci.2018{]}(\ref{Salucci.2018}) to \emph{SPSS} case
+used in {[}Salucci.2018{]}(\cite{Salucci:2018}) to \emph{SPSS} case
 since it purposely made for a {}``pattern matching objective'' and
 not a {}``footprint pattern mask constrained'' one, such as the
 one is considered. The need to consider a different solution strategy,
@@ -289,7 +289,7 @@ Compute the \emph{minimum norm} component of the $w$-th ($w=\{ e,m\}$)
 surface current, $[\mathbf{J}_{h}^{w}(\mathbf{r})]^{MN}$ (MN means
 \emph{minimum norm}), by solving \ref{eq:4} with respect to the currents.
 Towards this end, the method based on the truncated singular value
-decomposition, detailed in {[}Salucci.2018{]}(\ref{Salucci.2018}),
+decomposition, detailed in {[}Salucci.2018{]}(\cite{Salucci:2018}),
 is applied;
 \end{itemize}
 \textbf{Projection to Current Feasibility Space:}\\
@@ -354,7 +354,7 @@ Since the \emph{OK} is capable of effectively creating reliable and
 accurate surrogate models of wave manipulating devices , its choice
 is obvious. 
 
-Since, in {[}Yang.2021{]}(\ref{Yang.2021}) has been computed $\overline{\overline{\chi}}(\mathbf{d}_{a}),\overline{\xi}(\mathbf{d}_{a})$,
+Since, in {[}Yang.2021{]}(\cite{Yang:2021}) has been computed $\overline{\overline{\chi}}(\mathbf{d}_{a}),\overline{\xi}(\mathbf{d}_{a})$,
 starting from the full-wave simulation of the unit cell reflection
 matrix under local periodicity assumption $\overline{\overline{\Gamma}}(\mathbf{d}_{a})$
 and retrieving the associated dyadics by standard inversion formulas
@@ -362,7 +362,7 @@ such as\begin{equation}
 \xi_{xx}(\mathbf{d}_{a})=\frac{2j}{k_{0}}\frac{\Gamma_{\perp\perp}(\mathbf{d}_{a})+1}{\Gamma_{\perp\perp}(\mathbf{d}_{a})-1}\label{eq:24}\end{equation}
 
 
-which is valid for reflecting cells (in {[}Yang.2021{]}(\ref{Yang.2021}),
+which is valid for reflecting cells (in {[}Yang.2021{]}(\cite{Yang:2021}),
 Chapter 3, the author has computed this application on other components).
 
 It is worth considering the fact that the \emph{DT} has to predict
@@ -373,7 +373,7 @@ and $\overline{\overline{\xi}}(\mathbf{d})$ to the count) are computed,
 instead of 4 terms, deriving from the reflection matrix. This implies
 that the \emph{DT} of a \emph{SPSS} can neglect the incidence angle
 of the illuminating field since the susceptibility tensor does not
-depend on it, unlike what has been treated in {[}Yang.2021{]}\ref{Yang.2021}.
+depend on it, unlike what has been treated in {[}Yang.2021{]}\cite{Yang:2021}.
 
 Since have been treated all the aspects of the \emph{IPT-SbD} flowchart,
 a numerical experimentation will follow this section, considering
@@ -423,7 +423,7 @@ elementary unit cells which feature an inexpensive fabrication process
 since: only one dielectric layer is employed, the metalization contour
 complexity is very limited and no via holes are present;
 \item The following \emph{IPT-SbD} based parameters has been chosen %
-\footnote{\ref{Yang.2021}%
+\footnote{\cite{Yang:2021}%
 }{\let\thefootnote\relax\footnotetext{As stated in [Yang.2021] (and in all citated papers inside), the following parameters has been chosen through \textit{deterministic and stochastic} optimization techniques.}}:
 $H=10^{3},\mathcal{X}^{*}=10^{-4},S=10^{4}$ and $G=10$.
 \end{itemize}

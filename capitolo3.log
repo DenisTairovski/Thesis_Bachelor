@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6.28) (preloaded format=pdflatex 2021.9.13)  31 AUG 2022 18:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6.28) (preloaded format=pdflatex 2021.9.13)  6 SEP 2022 14:49
 entering extended mode
 **./capitolo3.tex
 (capitolo3.tex
@@ -1011,7 +1011,7 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 ! Undefined control sequence.
-l.51 \subsubsection
+l.52 \subsubsection
                    {Scenery Presentation}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1081,17 +1081,17 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 15--53
+Overfull \hbox (20.0pt too wide) in paragraph at lines 15--54
 []
  []
 
 
-Overfull \hbox (3686.37498pt too wide) in paragraph at lines 15--53
+Overfull \hbox (3686.37498pt too wide) in paragraph at lines 15--54
 []$
  []
 
 
-Overfull \hbox (3276.74998pt too wide) in paragraph at lines 15--53
+Overfull \hbox (3276.74998pt too wide) in paragraph at lines 15--54
 []$
  []
 
@@ -1102,7 +1102,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.54 \begin{figure}
+l.55 \begin{figure}
                    [H]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1115,7 +1115,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.54 \begin{figure}[
+l.55 \begin{figure}[
                     H]
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1124,82 +1124,10 @@ Missing character: There is no [ in font nullfont!
 Missing character: There is no H in font nullfont!
 Missing character: There is no ] in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 54--55
+Overfull \hbox (20.0pt too wide) in paragraph at lines 55--56
 [] 
  []
 
-! Undefined control sequence.
-l.56 \includegraphics
-                     [scale=0.075]{./Figure/Planning.EM/Fig.Scenario.Roveret...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Missing character: There is no [ in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no = in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 7 in font nullfont!
-Missing character: There is no 5 in font nullfont!
-Missing character: There is no ] in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no F in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no P in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no E in font nullfont!
-Missing character: There is no M in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no F in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no S in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no R in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no v in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no O in font nullfont!
-Missing character: There is no S in font nullfont!
-Missing character: There is no M in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no j in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no g in font nullfont!
 ! Undefined control sequence.
 l.57 \includegraphics
                      [scale=0.075]{./Figure/Planning.EM/Fig.Scenario.Roveret...
@@ -1265,6 +1193,78 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no . in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no g in font nullfont!
+! Undefined control sequence.
+l.58 \includegraphics
+                     [scale=0.075]{./Figure/Planning.EM/Fig.Scenario.Roveret...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no . in font nullfont!
 Missing character: There is no G in font nullfont!
 Missing character: There is no M in font nullfont!
 Missing character: There is no . in font nullfont!
@@ -1272,7 +1272,7 @@ Missing character: There is no j in font nullfont!
 Missing character: There is no p in font nullfont!
 Missing character: There is no g in font nullfont!
 
-Overfull \hbox (26.29428pt too wide) in paragraph at lines 55--59
+Overfull \hbox (26.29428pt too wide) in paragraph at lines 56--60
  [] 
  []
 
@@ -1283,14 +1283,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.62 \caption
+l.63 \caption
              {\footnotesize \emph{(a)} Scenario in WinProp \emph{- (b)} Scen...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 ! Undefined control sequence.
-l.62 \caption{\footnotesize
+l.63 \caption{\footnotesize
                             \emph{(a)} Scenario in WinProp \emph{- (b)} Scen...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1325,6 +1325,26 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no n in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
 Missing character: There is no O in font nullfont!
 Missing character: There is no p in font nullfont!
 Missing character: There is no e in font nullfont!
@@ -1338,26 +1358,6 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no M in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no p in font nullfont!
-Missing character: There is no S in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no G in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no M in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no s in font nullfont!
 
 ! LaTeX Error: \begin{document} ended by \end{figure}.
 
@@ -1365,57 +1365,20 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.64 \end{figure}
+l.65 \end{figure}
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-
-Overfull \hbox (33.28882pt too wide) in paragraph at lines 62--65
-[]\OT1/cmr/m/it/10 (a)
- []
-
-
-Overfull \hbox (3.57774pt too wide) in paragraph at lines 62--65
-\OT1/cmr/m/it/10 -
- []
-
-
-Overfull \hbox (12.7777pt too wide) in paragraph at lines 62--65
-\OT1/cmr/m/it/10 (b)
- []
-
-
-Overfull \hbox (3.57774pt too wide) in paragraph at lines 62--65
-\OT1/cmr/m/it/10 -
- []
-
-
-Overfull \hbox (12.7777pt too wide) in paragraph at lines 62--65
-\OT1/cmr/m/it/10 (c)
- []
-
 ! Undefined control sequence.
-l.68 \subsection
+l.67 \subsection
                 {Power and Threshold}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
-
-
-! LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.68 \subsection{P
-                  ower and Threshold}
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
 
 Missing character: There is no P in font nullfont!
 Missing character: There is no o in font nullfont!
@@ -1435,8 +1398,28 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no d in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 68--69
-[]
+Overfull \hbox (33.28882pt too wide) in paragraph at lines 63--68
+[]\OT1/cmr/m/it/10 (a)
+ []
+
+
+Overfull \hbox (3.57774pt too wide) in paragraph at lines 63--68
+\OT1/cmr/m/it/10 -
+ []
+
+
+Overfull \hbox (12.7777pt too wide) in paragraph at lines 63--68
+\OT1/cmr/m/it/10 (b)
+ []
+
+
+Overfull \hbox (3.57774pt too wide) in paragraph at lines 63--68
+\OT1/cmr/m/it/10 -
+ []
+
+
+Overfull \hbox (12.7777pt too wide) in paragraph at lines 63--68
+\OT1/cmr/m/it/10 (c)
  []
 
 
@@ -1446,7 +1429,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.70 A
+l.69 A
       nalyzing the radiaton pattern and thresholded pattern is needed to
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1541,7 +1524,7 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 70--72
+Overfull \hbox (20.0pt too wide) in paragraph at lines 69--71
 []
  []
 
@@ -1552,7 +1535,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.74 \begin{figure}
+l.73 \begin{figure}
                    [H]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1565,7 +1548,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.74 \begin{figure}[
+l.73 \begin{figure}[
                     H]
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1574,12 +1557,12 @@ Missing character: There is no [ in font nullfont!
 Missing character: There is no H in font nullfont!
 Missing character: There is no ] in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 74--75
+Overfull \hbox (20.0pt too wide) in paragraph at lines 73--74
 [] 
  []
 
 ! Undefined control sequence.
-l.76 \includegraphics
+l.75 \includegraphics
                      [scale=0.12]{./Figure/Planning.EM/Fig.Received.Power.Re...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1653,7 +1636,7 @@ Missing character: There is no j in font nullfont!
 Missing character: There is no p in font nullfont!
 Missing character: There is no g in font nullfont!
 ! Undefined control sequence.
-l.76 ...ived.Power.Reference.jpg}&\includegraphics
+l.75 ...ived.Power.Reference.jpg}&\includegraphics
                                                   [scale=0.12]{./Figure/Plan...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1734,7 +1717,7 @@ Missing character: There is no j in font nullfont!
 Missing character: There is no p in font nullfont!
 Missing character: There is no g in font nullfont!
 
-Overfull \hbox (26.8054pt too wide) in paragraph at lines 75--79
+Overfull \hbox (26.8054pt too wide) in paragraph at lines 74--78
  [] 
  []
 
@@ -1745,14 +1728,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.80 \caption
+l.79 \caption
              {\footnotesize \emph{(a)} Irradiated Power in Scenario \emph{- ...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 ! Undefined control sequence.
-l.80 \caption{\footnotesize
+l.79 \caption{\footnotesize
                             \emph{(a)} Irradiated Power in Scenario \emph{- ...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1820,14 +1803,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.82 \end{figure}
+l.81 \end{figure}
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 ! Undefined control sequence.
-l.83 \subsection
+l.82 \subsection
                 {Region of Interest}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1939,7 +1922,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.86 \begin{figure}
+l.85 \begin{figure}
                    [H]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1949,22 +1932,22 @@ Missing character: There is no [ in font nullfont!
 Missing character: There is no H in font nullfont!
 Missing character: There is no ] in font nullfont!
 
-Overfull \hbox (13.28882pt too wide) in paragraph at lines 80--87
+Overfull \hbox (13.28882pt too wide) in paragraph at lines 79--86
 \OT1/cmr/m/it/10 (a)
  []
 
 
-Overfull \hbox (3.57774pt too wide) in paragraph at lines 80--87
+Overfull \hbox (3.57774pt too wide) in paragraph at lines 79--86
 \OT1/cmr/m/it/10 -
  []
 
 
-Overfull \hbox (12.7777pt too wide) in paragraph at lines 80--87
+Overfull \hbox (12.7777pt too wide) in paragraph at lines 79--86
 \OT1/cmr/m/it/10 (b)
  []
 
 
-Overfull \hbox (36.62508pt too wide) in paragraph at lines 80--87
+Overfull \hbox (36.62508pt too wide) in paragraph at lines 79--86
 \OMS/cmsy/m/n/10  \OT1/cmr/m/n/10 65[\OML/cmm/m/it/10 dB\OT1/cmr/m/n/10 ]$
  []
 
@@ -1975,31 +1958,50 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.89 \begin{sideways}
-                     RoI1\end{sideways}&
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-Missing character: There is no R in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no I in font nullfont!
-Missing character: There is no 1 in font nullfont!
-
-! LaTeX Error: \begin{tabular} on input line 88 ended by \end{sideways}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.89 \begin{sideways}RoI1\end{sideways}
-                                       &
+l.88 \begin{sideways}
+                     \textcolor{white}{xxxxxxxxx}$\Omega^{(1)}$\end{sideways}&
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 ! Undefined control sequence.
-l.90 \includegraphics
+l.88 \begin{sideways}\textcolor
+                               {white}{xxxxxxxxx}$\Omega^{(1)}$\end{sideways}&
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no w in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no x in font nullfont!
+
+! LaTeX Error: \begin{tabular} on input line 87 ended by \end{sideways}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.88 ...te}{xxxxxxxxx}$\Omega^{(1)}$\end{sideways}
+                                                  &
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.89 \includegraphics
                      [scale=0.1]{./Figure/Planning.EM/RoI1/1/Fig.Received.Po...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2093,7 +2095,7 @@ Missing character: There is no j in font nullfont!
 Missing character: There is no p in font nullfont!
 Missing character: There is no g in font nullfont!
 ! Undefined control sequence.
-l.90 ...M.H-QoS-01.Reference.jpg}&\includegraphics
+l.89 ...M.H-QoS-01.Reference.jpg}&\includegraphics
                                                   [scale=0.1]{./Figure/Plann...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2139,6 +2141,257 @@ Missing character: There is no I in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no / in font nullfont!
 Missing character: There is no 1 in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no Z in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no g in font nullfont!
+
+! LaTeX Error: Environment sideways undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.90 \begin{sideways}
+                     \textcolor{white}{xxxxxxxxx}$\Omega^{(2)}$\end{sideways...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.90 \begin{sideways}\textcolor
+                               {white}{xxxxxxxxx}$\Omega^{(2)}$\end{sideways...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no w in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no x in font nullfont!
+
+! LaTeX Error: \begin{tabular} on input line 87 ended by \end{sideways}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.90 ...te}{xxxxxxxxx}$\Omega^{(2)}$\end{sideways}
+                                                  &\includegraphics[scale=0....
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.90 ...mega^{(2)}$\end{sideways}&\includegraphics
+                                                  [scale=0.1]{./Figure/Plann...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no Z in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no Q in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no g in font nullfont!
+! Undefined control sequence.
+l.90 ...M.H-QoS-02.Reference.jpg}&\includegraphics
+                                                  [scale=0.1]{./Figure/Plann...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no 2 in font nullfont!
 Missing character: There is no / in font nullfont!
 Missing character: There is no F in font nullfont!
 Missing character: There is no i in font nullfont!
@@ -2206,264 +2459,51 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.91 \begin{sideways}
-                     RoI2\end{sideways}&\includegraphics[scale=0.1]{./Figure...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-Missing character: There is no R in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no I in font nullfont!
-Missing character: There is no 2 in font nullfont!
-
-! LaTeX Error: \begin{tabular} on input line 88 ended by \end{sideways}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.91 \begin{sideways}RoI2\end{sideways}
-                                       &\includegraphics[scale=0.1]{./Figure...
+                     \textcolor{white}{xxxxxxxxx}$\Omega^{(3)}$\end{sideways...
 
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 ! Undefined control sequence.
-l.91 ...deways}RoI2\end{sideways}&\includegraphics
-                                                  [scale=0.1]{./Figure/Plann...
+l.91 \begin{sideways}\textcolor
+                               {white}{xxxxxxxxx}$\Omega^{(3)}$\end{sideways...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-Missing character: There is no [ in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no = in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no ] in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no F in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no P in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no E in font nullfont!
-Missing character: There is no M in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no R in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no I in font nullfont!
-Missing character: There is no 2 in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no 2 in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no F in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no R in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no v in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no P in font nullfont!
-Missing character: There is no o in font nullfont!
 Missing character: There is no w in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no Z in font nullfont!
-Missing character: There is no O in font nullfont!
-Missing character: There is no O in font nullfont!
-Missing character: There is no M in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no H in font nullfont!
-Missing character: There is no - in font nullfont!
-Missing character: There is no Q in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no S in font nullfont!
-Missing character: There is no - in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 2 in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no R in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no j in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no g in font nullfont!
-! Undefined control sequence.
-l.91 ...M.H-QoS-02.Reference.jpg}&\includegraphics
-                                                  [scale=0.1]{./Figure/Plann...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Missing character: There is no [ in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no = in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no ] in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no F in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no P in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no E in font nullfont!
-Missing character: There is no M in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no R in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no I in font nullfont!
-Missing character: There is no 2 in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no 2 in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no F in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no R in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no v in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no P in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no Z in font nullfont!
-Missing character: There is no O in font nullfont!
-Missing character: There is no O in font nullfont!
-Missing character: There is no M in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no R in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no I in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no R in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no T in font nullfont!
 Missing character: There is no h in font nullfont!
-Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
 Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no - in font nullfont!
-Missing character: There is no 6 in font nullfont!
-Missing character: There is no 5 in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no B in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no j in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no g in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no x in font nullfont!
 
-! LaTeX Error: Environment sideways undefined.
+! LaTeX Error: \begin{tabular} on input line 87 ended by \end{sideways}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.92 \begin{sideways}
-                     RoI3\end{sideways}&\includegraphics[scale=0.1]{./Figure...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-Missing character: There is no R in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no I in font nullfont!
-Missing character: There is no 3 in font nullfont!
-
-! LaTeX Error: \begin{tabular} on input line 88 ended by \end{sideways}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.92 \begin{sideways}RoI3\end{sideways}
-                                       &\includegraphics[scale=0.1]{./Figure...
+l.91 ...te}{xxxxxxxxx}$\Omega^{(3)}$\end{sideways}
+                                                  &\includegraphics[scale=0....
 
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 ! Undefined control sequence.
-l.92 ...deways}RoI3\end{sideways}&\includegraphics
+l.91 ...mega^{(3)}$\end{sideways}&\includegraphics
                                                   [scale=0.1]{./Figure/Plann...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2557,7 +2597,7 @@ Missing character: There is no j in font nullfont!
 Missing character: There is no p in font nullfont!
 Missing character: There is no g in font nullfont!
 ! Undefined control sequence.
-l.92 ...M.H-QoS-03.Reference.jpg}&\includegraphics
+l.91 ...M.H-QoS-03.Reference.jpg}&\includegraphics
                                                   [scale=0.1]{./Figure/Plann...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2663,7 +2703,7 @@ Missing character: There is no j in font nullfont!
 Missing character: There is no p in font nullfont!
 Missing character: There is no g in font nullfont!
 
-Overfull \hbox (26.8054pt too wide) in paragraph at lines 88--94
+Overfull \hbox (44.76381pt too wide) in paragraph at lines 87--93
  [] 
  []
 
@@ -2674,14 +2714,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.95 \caption
+l.94 \caption
              {\footnotesize \emph{(a)} Nominal Power for selected Region of ...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 ! Undefined control sequence.
-l.95 \caption{\footnotesize
+l.94 \caption{\footnotesize
                             \emph{(a)} Nominal Power for selected Region of ...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2781,24 +2821,24 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.97 \end{figure}
+l.96 \end{figure}
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (13.28882pt too wide) in paragraph at lines 95--98
+Overfull \hbox (13.28882pt too wide) in paragraph at lines 94--97
 \OT1/cmr/m/it/10 (a)
  []
 
 
-Overfull \hbox (12.7777pt too wide) in paragraph at lines 95--98
+Overfull \hbox (12.7777pt too wide) in paragraph at lines 94--97
 \OT1/cmr/m/it/10 (b)
  []
 
 
-Overfull \hbox (36.62508pt too wide) in paragraph at lines 95--98
+Overfull \hbox (36.62508pt too wide) in paragraph at lines 94--97
 \OMS/cmsy/m/n/10  \OT1/cmr/m/n/10 65[\OML/cmm/m/it/10 dB\OT1/cmr/m/n/10 ]$
  []
 
@@ -3403,12 +3443,12 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 100--111
+Overfull \hbox (20.0pt too wide) in paragraph at lines 99--110
 []
  []
 
 ! Undefined control sequence.
-l.113 \subsection
+l.112 \subsection
                  {Smart Skins Choice}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3433,7 +3473,7 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no e in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 113--114
+Overfull \hbox (20.0pt too wide) in paragraph at lines 112--113
 []
  []
 
@@ -3709,13 +3749,6 @@ Missing character: There is no v in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no 8 in font nullfont!
 Missing character: There is no 0 in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no B in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no V in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no m in font nullfont!
 Missing character: There is no , in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no v in font nullfont!
@@ -3786,8 +3819,13 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 115--122
+Overfull \hbox (20.0pt too wide) in paragraph at lines 114--121
 []
+ []
+
+
+Overfull \hbox (45.5973pt too wide) in paragraph at lines 114--121
+\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 dBV=m\OT1/cmr/m/n/10 ]$
  []
 
 Missing character: There is no A in font nullfont!
@@ -3912,7 +3950,7 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 123--125
+Overfull \hbox (20.0pt too wide) in paragraph at lines 122--124
 []
  []
 
@@ -3923,7 +3961,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.127 \begin{figure}
+l.126 \begin{figure}
                     [H]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -3933,12 +3971,12 @@ Missing character: There is no [ in font nullfont!
 Missing character: There is no H in font nullfont!
 Missing character: There is no ] in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 127--128
+Overfull \hbox (20.0pt too wide) in paragraph at lines 126--127
 [] 
  []
 
 ! Undefined control sequence.
-l.129 \includegraphics
+l.128 \includegraphics
                       [%
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4028,7 +4066,7 @@ Missing character: There is no j in font nullfont!
 Missing character: There is no p in font nullfont!
 Missing character: There is no g in font nullfont!
 ! Undefined control sequence.
-l.131 \includegraphics
+l.130 \includegraphics
                       [%
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4126,7 +4164,7 @@ Missing character: There is no ) in font nullfont!
 ! Undefined control sequence.
 \@sharp ->\includegraphics 
                            [scale=0.1]{./Figure/Planning.EM/RoI3/3/Fig.Scena...
-l.136 ....Scenario.ZOOM.H-QoS-03.Smart.Skins.jpg}}
+l.135 ....Scenario.ZOOM.H-QoS-03.Smart.Skins.jpg}}
                                                   \tabularnewline
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4225,14 +4263,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.139 \caption
+l.138 \caption
               {\footnotesize \emph{(a)} Smart Skin Choice for Region Of Inte...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 ! Undefined control sequence.
-l.139 \caption{\footnotesize
+l.138 \caption{\footnotesize
                              \emph{(a)} Smart Skin Choice for Region Of Inte...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4352,34 +4390,34 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.142 \end{figure}
+l.141 \end{figure}
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (13.28882pt too wide) in paragraph at lines 139--143
+Overfull \hbox (13.28882pt too wide) in paragraph at lines 138--142
 \OT1/cmr/m/it/10 (a)
  []
 
 
-Overfull \hbox (3.57774pt too wide) in paragraph at lines 139--143
+Overfull \hbox (3.57774pt too wide) in paragraph at lines 138--142
 \OT1/cmr/m/it/10 -
  []
 
 
-Overfull \hbox (12.7777pt too wide) in paragraph at lines 139--143
+Overfull \hbox (12.7777pt too wide) in paragraph at lines 138--142
 \OT1/cmr/m/it/10 (b)
  []
 
 
-Overfull \hbox (3.57774pt too wide) in paragraph at lines 139--143
+Overfull \hbox (3.57774pt too wide) in paragraph at lines 138--142
 \OT1/cmr/m/it/10 -
  []
 
 
-Overfull \hbox (12.7777pt too wide) in paragraph at lines 139--143
+Overfull \hbox (12.7777pt too wide) in paragraph at lines 138--142
 \OT1/cmr/m/it/10 (c)
  []
 
@@ -4390,7 +4428,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.146 \begin{figure}
+l.145 \begin{figure}
                     [H]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -4400,12 +4438,12 @@ Missing character: There is no [ in font nullfont!
 Missing character: There is no H in font nullfont!
 Missing character: There is no ] in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 146--147
+Overfull \hbox (20.0pt too wide) in paragraph at lines 145--146
 [] 
  []
 
 ! Undefined control sequence.
-l.148 \includegraphics
+l.147 \includegraphics
                       [scale=0.1]{./Figure/Planning.EM/Fig.Scenario.BTS.Rays...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4471,7 +4509,7 @@ Missing character: There is no j in font nullfont!
 Missing character: There is no p in font nullfont!
 Missing character: There is no g in font nullfont!
 
-Overfull \hbox (13.65826pt too wide) in paragraph at lines 147--150
+Overfull \hbox (13.65826pt too wide) in paragraph at lines 146--149
  [] 
  []
 
@@ -4482,13 +4520,13 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.153 \caption
+l.152 \caption
               {\footnotesize \emph{(a)} Cumulative Smart Skin Choices}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 ! Undefined control sequence.
-l.153 \caption{\footnotesize
+l.152 \caption{\footnotesize
                              \emph{(a)} Cumulative Smart Skin Choices}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4529,19 +4567,19 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.154 \end{figure}
+l.153 \end{figure}
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (33.28882pt too wide) in paragraph at lines 153--155
+Overfull \hbox (33.28882pt too wide) in paragraph at lines 152--154
 []\OT1/cmr/m/it/10 (a)
  []
 
 ! Undefined control sequence.
-l.158 \subsection
+l.157 \subsection
                  {Enhancement Region of Interest 1}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4578,7 +4616,7 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no 1 in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 158--159
+Overfull \hbox (20.0pt too wide) in paragraph at lines 157--158
 []
  []
 
@@ -4797,12 +4835,12 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no k in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 160--164
+Overfull \hbox (20.0pt too wide) in paragraph at lines 159--163
 []
  []
 
 ! Undefined control sequence.
-l.166 \subsubsection
+l.165 \subsubsection
                     {Smart Skin Sizing and Layout}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4835,7 +4873,7 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no u in font nullfont!
 Missing character: There is no t in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 166--167
+Overfull \hbox (20.0pt too wide) in paragraph at lines 165--166
 []
  []
 
@@ -4846,7 +4884,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.169 \begin{table}
+l.168 \begin{table}
                    [H]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -4856,12 +4894,12 @@ Missing character: There is no [ in font nullfont!
 Missing character: There is no H in font nullfont!
 Missing character: There is no ] in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 169--170
+Overfull \hbox (20.0pt too wide) in paragraph at lines 168--169
 [] 
  []
 
 ! Undefined control sequence.
-l.170 \begin{center}\resizebox
+l.169 \begin{center}\resizebox
                               {\textwidth}{!}{\begin{tabular}{|c|c|c|c|}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4872,7 +4910,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    }
-l.170 \begin{center}\resizebox{\textwidth}
+l.169 \begin{center}\resizebox{\textwidth}
                                           {!}{\begin{tabular}{|c|c|c|c|}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -4881,7 +4919,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    }
-l.170 \begin{center}\resizebox{\textwidth}
+l.169 \begin{center}\resizebox{\textwidth}
                                           {!}{\begin{tabular}{|c|c|c|c|}
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -5057,7 +5095,7 @@ Missing character: There is no w in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no r in font nullfont!
 
-Overfull \hbox (433.94356pt too wide) in paragraph at lines 170--232
+Overfull \hbox (433.94356pt too wide) in paragraph at lines 169--231
  [] 
  []
 
@@ -5068,13 +5106,13 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.235 \caption
+l.234 \caption
               {\footnotesize Region of Interest 1 data}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 ! Undefined control sequence.
-l.235 \caption{\footnotesize
+l.234 \caption{\footnotesize
                              Region of Interest 1 data}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -5110,14 +5148,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.236 \end{table}
+l.235 \end{table}
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 235--237
+Overfull \hbox (20.0pt too wide) in paragraph at lines 234--236
 []
  []
 
@@ -5128,7 +5166,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.240 \begin{figure}
+l.239 \begin{figure}
                     [H]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -5138,7 +5176,7 @@ Missing character: There is no [ in font nullfont!
 Missing character: There is no H in font nullfont!
 Missing character: There is no ] in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 240--241
+Overfull \hbox (20.0pt too wide) in paragraph at lines 239--240
 [] 
  []
 
@@ -5149,14 +5187,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.242 \begin{sideways}
+l.241 \begin{sideways}
                       
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 ! Undefined control sequence.
-l.243 \textcolor
+l.242 \textcolor
                 {white}{xxxxxx}$\Gamma_{1}^{(1)}$%
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -5176,20 +5214,20 @@ Missing character: There is no x in font nullfont!
 Missing character: There is no x in font nullfont!
 Missing character: There is no x in font nullfont!
 
-! LaTeX Error: \begin{tabular} on input line 241 ended by \end{sideways}.
+! LaTeX Error: \begin{tabular} on input line 240 ended by \end{sideways}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.244 \end{sideways}
+l.243 \end{sideways}
                     &
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 ! Undefined control sequence.
-l.245 \includegraphics
+l.244 \includegraphics
                       [%
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -5238,13 +5276,13 @@ Missing character: There is no 1 in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.246   scale=0.1]{./Figure/Planning.EM/RoI1/1_
+l.245   scale=0.1]{./Figure/Planning.EM/RoI1/1_
                                                1/Fig.SQUARE.PATCH-50x50.EMS-...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Extra }, or forgotten $.
-l.246 ...Fig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}
+l.245 ...Fig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}
                                                   &
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5255,7 +5293,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5264,7 +5302,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5275,7 +5313,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5284,7 +5322,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5295,7 +5333,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5304,7 +5342,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5315,7 +5353,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5324,7 +5362,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5335,7 +5373,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5344,7 +5382,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5355,7 +5393,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5364,7 +5402,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5375,7 +5413,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5384,7 +5422,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5395,7 +5433,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5404,7 +5442,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5415,7 +5453,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5424,7 +5462,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5435,7 +5473,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5444,7 +5482,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5455,7 +5493,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5464,7 +5502,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5475,7 +5513,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5484,7 +5522,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5495,7 +5533,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5504,7 +5542,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5515,7 +5553,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5524,7 +5562,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5535,7 +5573,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5544,7 +5582,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5555,7 +5593,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5564,7 +5602,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5575,7 +5613,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5584,7 +5622,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5595,7 +5633,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5604,7 +5642,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5615,7 +5653,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5624,7 +5662,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5635,7 +5673,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5644,7 +5682,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5655,7 +5693,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5664,7 +5702,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5675,7 +5713,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5684,7 +5722,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5695,7 +5733,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5704,7 +5742,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5715,7 +5753,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5724,7 +5762,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5735,7 +5773,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5744,7 +5782,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5755,7 +5793,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5764,7 +5802,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5775,7 +5813,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5784,7 +5822,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5795,7 +5833,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5804,7 +5842,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5815,7 +5853,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5824,7 +5862,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5835,7 +5873,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5844,7 +5882,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5855,7 +5893,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5864,7 +5902,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5875,7 +5913,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5884,7 +5922,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5895,7 +5933,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5904,7 +5942,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5915,7 +5953,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5924,7 +5962,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5935,7 +5973,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5944,7 +5982,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5955,7 +5993,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5964,7 +6002,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5975,7 +6013,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5984,7 +6022,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5995,7 +6033,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -6004,7 +6042,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -6015,7 +6053,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -6024,7 +6062,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -6035,7 +6073,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -6044,7 +6082,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -6055,7 +6093,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -6064,7 +6102,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -6075,7 +6113,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -6084,7 +6122,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -6095,7 +6133,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -6104,7 +6142,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -6115,7 +6153,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -6124,7 +6162,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -6135,7 +6173,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -6144,7 +6182,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -6155,7 +6193,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -6164,7 +6202,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -6175,7 +6213,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -6184,7 +6222,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.246 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
+l.245 ...ig.SQUARE.PATCH-50x50.EMS-Layout1.1.jpg}&
                                                   
 (That makes 100 errors; please try again.) 
 Here is how much of TeX's memory you used:
@@ -6194,6 +6232,6 @@ Here is how much of TeX's memory you used:
  18071 multiletter control sequences out of 15000+600000
  403776 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 19i,9n,12p,322b,200s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 19i,9n,12p,360b,200s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 !  ==> Fatal error occurred, no output PDF file produced!
